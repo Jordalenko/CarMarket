@@ -1,0 +1,119 @@
+car_maker,car_model,engine,engine_size,engine_rating,top_speed,speed_rating,price,fuel_type,seats,torque,images
+Acura,NSX Type S,Twin-Turbo V6 Hybrid,"3,493 cc (V6)",600 hp,307 km/h,2.9 sec,"$157,000 ",Hybrid,2,666 Nm,00001.jpg
+Acura,TLX PMC Edition,V6,"3,500 cc (V6)",290 hp,250 km/h,5.7 sec,"$62,000 ",Petrol,5,362 Nm,00002.jpg
+Acura,MDX Advance,V6,"3,500 cc (V6)",290 hp,190 km/h,6.0 sec,"$60,000 ",Petrol,7,362 Nm,00003.jpg
+Acura,RDX Technology,I4 Turbocharged,"1,500 cc (I4)",272 hp,210 km/h,6.6 sec,"$45,000 ",Petrol,5,400 Nm,00004.jpg
+ASTON MARTIN,VICTOR,V12,"5,204 cc",836 hp,320 km/h,2.8 sec,"$1,300,000 ",Petrol,2,821 Nm,00005.jpg
+AUDI,AUDI R8 Gt,V10,"5,204 cc",602 hp,320 km/h,3.6 sec,"$253,290 ",Petrol,2,560 Nm,00006.jpg
+AUDI,R8 V10 PLUS,V10,"5,204 cc",610 hp,330 km/h,3.2 sec,"$194,000 ",Petrol,2,560 Nm,00007.jpg
+AUDI,TT COUPE,I4,"1,984 cc",248 hp,250 km/h,5.3 sec,"$49,000 ",Petrol,2,400 Nm,00008.jpg
+BENTLEY,Continental GT Azure,V8,"3,996 cc",550 hp,318 km/h,4.0 sec,"$311,000 ",Petrol,4,900 Nm,00009.jpg
+BMW,Mclaren 720s,V8,"3,994 cc",710 hp,341 km/h,2.9 sec,"$499,000 ",Petrol,2,770 Nm,00010.jpg
+BMW,M5 CS,V8,"4,395 cc",627 hp,305 km/h,3.0 sec,"$142,000 ",Petrol,5,750 Nm,00011.jpg
+BMW,M4 GTS,I6,"2,993 cc",493 hp,305 km/h,3.7 sec,"$133,000 ",Petrol,4,600 Nm,00012.jpg
+BMW,M3 COMPETITION,I6,"2,993 cc",503 hp,285 km/h,3.5 sec,"$76,000 ",Petrol,5,650 Nm,00013.jpg
+Bugatti,Bolide,8.0L Quad-Turbo W16,7993 cc,1850 hp,500 km/h,2.2 sec,"$4,500,000 ",Petrol,2,1600 Nm,00014.jpg
+Bugatti,Mistral,8.0L Quad-Turbo W16,7993 cc,1600 hp,420 km/h,2.4 sec,"$5,000,000 ",Petrol,2,1600 Nm,00015.jpg
+Cadillac,CT4,2.0L Turbo Inline-4 Gasoline,2000 cc,237 hp,250 km/h,6.0 sec,"$34,395 ",Petrol,5,350 Nm,00016.jpg
+Cadillac,CT4-V,2.7L Turbo Inline-4 Gasoline,2700 cc,325 hp,260 km/h,4.9 sec,"$46,595 ",Petrol,5,500 Nm,00017.jpg
+Cadillac,CT5,2.0L Turbo Inline-4 Gasoline,2000 cc,237 hp,240 km/h,6.6 sec,"$38,195 ",Petrol,5,350 Nm,00018.jpg
+Cadillac,CT5-V,3.0L Twin-Turbo V6 Gasoline,3000 cc,360 hp,250 km/h,4.6 sec,"$50,995 ",Petrol,5,550 Nm,00019.jpg
+Chevrolet,Silverado 1500 Custom,4.3L V6 Gasoline,4300 cc,285 hp,180 km/h,8.6 sec,"$34,900 ",Petrol,6,413 Nm,00020.jpg
+Chevrolet,Silverado 2500HD LTZ,6.6L V8 Diesel,6600 cc,445 hp,160 km/h,8.4 sec,"$56,400 ",Diesel,6,1234 Nm,00021.jpg
+Chevrolet,Tahoe RST,5.3L V8 Gasoline,5300 cc,355 hp,180 km/h,7.4 sec,"$64,100 ",Petrol,7,519 Nm,00022.jpg
+Chevrolet,Suburban LT,5.3L V8 Gasoline,5300 cc,355 hp,180 km/h,5.1 sec,"$64,400 ",Petrol,8,519 Nm,00023.jpg
+Chevrolet,Bolt EV Premier,Single Electric Motor,66 kWh,200 hp,150 km/h,6.5 sec,"$31,700 ",Electric,5,360 Nm,00024.jpg
+Chevrolet,Tahoe LS,5.3L V8 Gasoline,5300 cc,355 hp,180 km/h,7.5 sec,"$56,995 ",Petrol,8,519 Nm,00025.jpg
+Chevrolet,Tahoe LT,5.3L V8 Gasoline,5300 cc,355 hp,180 km/h,7.4 sec,"$62,495 ",Petrol,8,519 Nm,00026.jpg
+Chevrolet,Tahoe RST,5.3L V8 Gasoline,5300 cc,355 hp,180 km/h,7.4 sec,"$64,100 ",Petrol,7,519 Nm,00027.jpg
+Chevrolet,Tahoe Z71,5.3L V8 Gasoline,5300 cc,355 hp,180 km/h,7.6 sec,"$66,700 ",Petrol,7,519 Nm,00028.jpg
+Chevrolet,Tahoe Premier,6.2L V8 Gasoline,6200 cc,420 hp,200 km/h,6.8 sec,"$71,600 ",Petrol,7,624 Nm,00029.jpg
+Chevrolet,Tahoe High Country,6.2L V8 Gasoline,6200 cc,420 hp,200 km/h,6.7 sec,"$76,700 ",Petrol,7,624 Nm,00030.jpg
+Chevrolet,Tahoe Midnight Edition,5.3L V8 Gasoline,5300 cc,355 hp,180 km/h,7.5 sec,"$65,500 ",Petrol,8,519 Nm,00031.jpg
+Chevrolet,Tahoe Sport Edition,6.2L V8 Gasoline,6200 cc,420 hp,200 km/h,6.8 sec,"$70,000 ",Petrol,7,624 Nm,00032.jpg
+FERRARI,SF90 STRADALE,V8,3990 cc,963 hp,340 km/h,2.5 sec,"$1,100,000 ",plug in hyrbrid,2,800 Nm,00033.jpg
+FERRARI,F8 TRIBUTO,V8,"3,900 cc",710 hp,340 km/h,2.9 sec,"$280,000 ",Petrol,2,770 Nm,00034.jpg
+FERRARI,812 GTS,V12,6496 cc,789 hp,340 km/h,2.9 sec,"$350,000 ",Petrol,2,718 Nm,00035.jpg
+FERRARI,PORTOFINO,V8,"3,900 cc",592 hp,320 km/h,3.2 sec,"$210,000 ",Petrol,2+2,760 Nm,00036.jpg
+Ford,Mustang (2024),V8 Gasoline Engine,"5,000 cc",450 hp,250 km/h,4.5 sec,"$60,000 ",Petrol,4,570 Nm,00037.jpg
+Ford,Ranger (2024),I4 Turbo Diesel,"2,000 cc",210 hp,180 km/h,8.0 sec,"$40,000 ",Diesel,5,500 Nm,00038.jpg
+Ford,Escape Plug-in Hybrid (2024),I4 Hybrid,"2,500 cc (petrol) + Electric Motor",221 hp,190 km/h,7.5 sec,"$38,000 ",Hybrid,5,210 Nm,00039.jpg
+Ford,Bronco (2024),V6 EcoBoost,"2,700 cc",310 hp,200 km/h,6.7 sec,"$45,000 ",Petrol,5,542 Nm,00040.jpg
+Ford,Explorer (2024),V6 Turbocharged,"3,000 cc",400 hp,230 km/h,5.9 sec,"$55,000 ",Petrol,7,563 Nm,00041.jpg
+GMC,Terrain,1.5L Turbo 4-cylinder,1500 cc,175 hp,190 km/h,9.5 sec,"$29,900 ",Petrol,5,275 Nm,00042.jpg
+GMC,Acadia,2.0L Turbo 4-cylinder,2000 cc,228 hp,200 km/h,7.8 sec,"$36,800 ",Petrol,7,350 Nm,00043.jpg
+GMC,Yukon,5.3L V8 Gasoline,5300 cc,355 hp,180 km/h,7.4 sec,"$57,400 ",Petrol,8,519 Nm,00044.jpg
+GMC,Yukon XL,6.2L V8 Gasoline,6200 cc,420 hp,200 km/h,6.9 sec,"$61,100 ",Petrol,8,624 Nm,00045.jpg
+HONDA,PILOT,V6,"3,471 cc",285 hp,209 km/h,6.3 sec,"$40,000 ",Petrol,8,360 Nm,00046.jpg
+HONDA,CIVIC HATCHBACK,I4,"1,498 cc",180 hp,220 km/h,6.8 sec,"$26,350 ",Petrol,5,300 Nm,00047.jpg
+HONDA,CITY,I4,"1,497 cc",119 hp,180 km/h,10.2 sec,"$15,400 ",Petrol/Hybrid,5,145 Nm,00048.jpg
+HONDA,CIVIC,I4,"1,996 cc",158 hp,200 km/h,8.5 sec,"$20,400 ",Petrol,5,400 Nm,00049.jpg
+HYUNDAI,I10,"1.2L,4-CYLINDER,INLINE-4(I4)","1,197 cc",87 hp,160 km/h,12.2 sec,"$12,400 ",Petrol,5,120 Nm,00050.jpg
+HYUNDAI,I20,"1.4L,4-CYLINDER,INLINE-4(I4)","1,396 cc",99 hp,180 km/h,10.5 sec,"$15,400 ",Petrol/Hybrid,5,250 Nm,00051.jpg
+Jaguar Land Rover,Jaguar F-Type P450 AWD,V8 Petrol,5000 cc (V8),450 hp,290 km/h,4.0 sec,"$90,000 ",Petrol,2,600 Nm,00052.jpg
+Jaguar Land Rover,Jaguar F-PACE P400e Plug-in Hybrid,I4 Petrol + Electric Motor,1999 cc (I4) + Electric,398 hp,220 km/h,5.1 sec,"$75,000 ",Plug-in Hybrid,5,640 Nm,00053.jpg
+Jaguar Land Rover,Jaguar F-Type P300 Coupe,I4 Petrol,1999 cc (I4),300 hp,250 km/h,5.5 sec,"$60,000 ",Petrol,2,400 Nm,00054.jpg
+Jeep,Wrangler,3.6L V6 Pentastar Gasoline,3600 cc,285 hp,180 km/h,6.8 sec,"$35,195 ",Petrol,4,353 Nm,00055.jpg
+Jeep,Wrangler Rubicon,2.0L Turbo I4 Gasoline,2000 cc,270 hp,180 km/h,7.1 sec,"$42,100 ",Petrol,4,400 Nm,00056.jpg
+Jeep,Grand Cherokee,3.6L V6 Pentastar Gasoline,3600 cc,293 hp,209 km/h,7.0 sec,"$41,530 ",Petrol,5,352 Nm,00057.jpg
+Jeep,Renegade 4xe,1.3L Turbo PHEV,11.4 kWh,240 hp,200 km/h,7.5 sec,"$44,500 ",Hybrid,5,270 Nm,00058.jpg
+Jeep,Wagoneer S (Electric),Dual Electric Motors,100 kWh,600 hp,177 km/h,4.5 sec,"$80,000 ",Electric,5,850 Nm,00059.jpg
+KIA,SPORTAGE 2024(SX TURBO AWD),I4,"1,998 cc",240 hp,210 km/h,6.5 sec,"$40,000 ",Petrol/AWD,5,400 Nm,00060.jpg
+LAMBORGHINI,HURACAN STO EVO,V10,"5,204 cc",640 hp,325 km/h,3.0 sec,"$342,000 ",Petrol,2,565 Nm,00061.jpg
+LAMBORGHINI,AVENTADOR LP 780-4 ULTIMATE ROADSTER,V12,"6,498 cc",769 hp,355 km/h,2.8 sec,"$573,000 ",Petrol,2,720 Nm,00062.jpg
+MAHINDRA,XUV500,"2.2L,4-CYLINDER,INLINE-4(I4)","2,179 cc",155 hp,180 km/h,10.5 sec,"$18,400 ",Diesel,7,400 Nm,00063.jpg
+MAHINDRA,SCORPIO,"2.2L,4-CYLINDER,INLINE-4(I4)","2,179 cc",140 hp,160 km/h,11.2 sec,"$16,400 ",Diesel,7,280 Nm,00064.jpg
+Mazda,Mazda2,1.5L 4-Cylinder,"1,500 cc",108 hp,180 km/h,10.2 sec,"$17,000-$20,000",Petrol,5,142 Nm,00065.jpg
+Mazda,Mazda3,2.0L SkyActiv-G,"2,000 cc",155 hp,200 km/h,8.9 sec,"$22,000 - $26,000",Petrol,5,213 Nm,00066.jpg
+Mazda,Mazda3 Hatchback,2.5L SkyActiv-G,"2,500 cc",186 hp,210 km/h,8.3 sec,"$24,000 - $28,000",Petrol,5,252 Nm,00067.jpg
+Mazda,Mazda6,2.5L Turbocharged,"2,500 cc",250 hp,240 km/h,6.4 sec,"$27,000 - $35,000",Petrol,5,420 Nm,00068.jpg
+Mazda,CX-3,2.0L SkyActiv-G,"2,000 cc",146 hp,180 km/h,9.5 sec,"$21,000 - $25,000",Petrol,5,197 Nm,00069.jpg
+MERCEDES,BENZ GLE 53,V6,"2,996 cc",429 hp,250 km/h,5.2 sec,"$71,000 ",Petrol,5,620 Nm,00070.jpg
+MERCEDES,BENZ S-CLASS S 350,I4,"1,991 cc",255 hp,250 km/h,6.5 sec,"$90,000 ",Petrol,5,500 Nm,00071.jpg
+MERCEDES,BENZ EQS 53,ELECTRIC MOTOR,N/A,751 hp,250 km/h,3.4 sec,"$102,000 ",Electric,5,950 Nm,00072.jpg
+MERCEDES,BENZ MAYBACH S 680,V12,"5,980 cc",630 hp,250 km/h,4.7 sec,"$200,000 ",Petrol,5,1000 Nm,00073.jpg
+Mitsubishi,Mirage,1.2L MIVEC,"1,200 cc",78 hp,170 km/h,12.0 sec,"$16,000 - $18,000",Petrol,5,100 Nm,00074.jpg
+Mitsubishi,Mirage G4,1.2L MIVEC,"1,200 cc",78 hp,170 km/h,12.0 sec,"$17,000 - $19,000",Petrol,5,100 Nm,00075.jpg
+Mitsubishi,Outlander,2.5L 4-Cylinder,"2,500 cc",181 hp,190 km/h,9.5 sec,"$28,000 - $35,000",Petrol,7,245 Nm,00076.jpg
+NISSAN,ALTIMA,I4,"2,488 cc",188 hp,225 km/h,7.3 sec,"$25,000 ",Petrol,5,380 Nm,00077.jpg
+NISSAN,MAXIMA,V6,"3,498 cc",300 hp,240 km/h,5.8 sec,"$35,000 ",Petrol,5,354 Nm,00078.jpg
+NISSAN,SENTRA,I4,"1,998 cc",149 hp,200 km/h,8.2 sec,"$20,000 ",Petrol,5,240 Nm,00079.jpg
+NISSAN,ROGUE,I4,"2,488 cc",201 hp,200 km/h,7.5 sec,"$28,000 ",Petrol,5,270 Nm,00080.jpg
+NISSAN,PATHFINDER,V6,"3,498 cc",284 hp,225 km/h,6.5 sec,"$35,000 ",Petrol,7,351 Nm,00081.jpg
+Peugeot,208 PSE (Peugeot Sport Engineered),Hybrid I4,"1,598 cc (petrol) + Electric Motor",225 hp,250 km/h,5.5 sec,"$45,000 ",Hybrid,5,360 Nm,00082.jpg
+Peugeot,308 PSE,Hybrid I4,"1,598 cc (petrol) + Electric Motor",360 hp,250 km/h,5.0 sec,"$55,000 ",Hybrid,5,520 Nm,00083.jpg
+Peugeot,508 PSE,Hybrid I4,"1,598 cc (petrol) + Electric Motor",360 hp,250 km/h,5.2 sec,"$60,000 ",Hybrid,5,520 Nm,00084.jpg
+Peugeot,3008 PSE,Hybrid I4,"1,598 cc (petrol) + Electric Motor",300 hp,235 km/h,6.0 sec,"$50,000 ",Hybrid,5,400 Nm,00085.jpg
+Peugeot,2008 Active,Inline-4,"1,199 cc",100 hp,190 km/h,11.2 sec,"$22,000 ",Petrol,5,205 Nm,00086.jpg
+Peugeot,3008 Active,Inline-4,"1,499 cc",130 hp,200 km/h,10.0 sec,"$30,000 ",Petrol,5,240 Nm,00087.jpg
+Peugeot,5008 Active,Inline-4,"1,499 cc",130 hp,190 km/h,10.5 sec,"$33,000 ",Petrol,7,240 Nm,00088.jpg
+Peugeot,3008 Allure Premium,Inline-4,"1,499 cc",130 hp,200 km/h,9.8 sec,"$32,000 ",Petrol,5,240 Nm,00089.jpg
+Peugeot,5008 Allure Premium,Inline-4,"1,499 cc",130 hp,190 km/h,10.2 sec,"$35,000 ",Petrol,7,240 Nm,00090.jpg
+Peugeot,3008 GT Line,Inline-4,"1,598 cc",180 hp,210 km/h,8.5 sec,"$35,000 ",Petrol,5,250 Nm,00091.jpg
+Peugeot,5008 GT Line,Inline-4,"1,598 cc",180 hp,200 km/h,9.0 sec,"$38,000 ",Petrol,7,250 Nm,00092.jpg
+Porsche,911 Carrera,3.0L Flat-6 Twin Turbo,2981 cc,379 HP,293 km/h,4.2 sec,"$110,000 ",Petrol,4,450 Nm,00093.jpg
+Porsche,911 Carrera S,3.0L Twin-Turbo Flat-6,2981 cc,443 hp,308 km/h,3.5,"$131,300 ",Petrol,4,528 Nm,00094.jpg
+Porsche,911 Carrera 4,3.0L Twin-Turbo Flat-6,2981 cc,379 hp,293 km/h,4.2,"$106,500 ",Petrol,4,450 Nm,00095.jpg
+Porsche,911 Carrera 4S,3.0L Twin-Turbo Flat-6,2981 cc,443 hp,306 km/h,3.4,"$113,300 ",Petrol,4,528 Nm,00096.jpg
+ROLLS ROYCE ,GHOST,V12,"6,592 cc",591 hp,250 km/h,4.8 sec,"$332,000 ",Petrol,5,850 Nm,00097.jpg
+Tesla,Model 3,Single Electric Motor (RWD),60 kWh,283 hp,225 km/h,5.8 sec,"$40,240 ",Electric,5,420 Nm,00098.jpg
+Tesla,Model 3 Performance,Dual Electric Motors (AWD),82 kWh,450 hp,261 km/h,3.1 sec,"$53,240 ",Electric,5,660 Nm,00099.jpg
+Tesla,Model X,Dual Electric Motors (AWD),100 kWh,670 hp,250 km/h,3.8 sec,"$98,490 ",Electric,7,967 Nm,00100.jpg
+Tesla,Model X Plaid,Tri Electric Motors,100 kWh,"1,020 hp",262 km/h,2.6 sec,"$113,490 ",Electric,6,"1,400 Nm",00101.jpg
+Tesla,Model Y,Single Electric Motor (RWD),75 kWh,346 hp,217 km/h,5.0 sec,"$47,490 ",Electric,5,498 Nm,00102.jpg
+TOYOTA,GR SUPRA,I4,"2,998 cc",382 hp,250 km/h,4.1 sec,"$53,900 ",Petrol,2,500 Nm,00103.jpg
+TOYOTA,TOYOTA 86,BOXER-4,"1,998 cc",205 hp,226 km/h,6.4 sec,"$27,000 ",Petrol,2+2,205 Nm,00104.jpg
+TOYOTA,TOYOTA  GR86,BOXER-4,"2,387 cc",228 hp,226 km/h,5.6 sec,"$30,000 ",Petrol,4,250 Nm,00105.jpg
+TOYOTA,TOYOTA LAND CRUISER,V8,"5,663 cc",381 hp,220 km/h,6.7 sec,"$85,000 ",Diesel,7,500 Nm,00106.jpg
+TOYOTA,TACOMA,I4,"2,694 cc",159 hp,180 km/h,9.5 sec,"$26,400 ",Petrol,5,400 Nm,00107.jpg
+TOYOTA,TUNDRA,V8,"5,663 cc",381 hp,220 km/h,6.7 sec,"$39,900 ",Petrol,5,650 Nm,00108.jpg
+TOYOTA,TUNDRA HYBRID,V6,"3,456 cc",344 hp,220 km/h,6.2 sec,"$43,400 ",Hybrid,5,650 Nm,00109.jpg
+TOYOTA,YARIS,I4,"1,496 cc",106 hp,180 km/h,11.2 sec,"$18,400 ",Petrol,5,150 Nm,00110.jpg
+TOYOTA,AYGO X,"1.0L,INLINE-3",998 cc,71 hp,160 km/h,14.8 sec,"$18,000 ",Petrol,4,93 Nm,00111.jpg
+TOYOTA,HILUX REVO ROCCO,"2.8L,TURBO,DIESEL","2,755 cc",204 hp ,175 km/h,10.0 sec,"$50,000 ",Diesel,5,500 Nm,00112.jpg
+Toyota,RAV4 (6th Gen),2.5L Hybrid / Plug-in Hybrid,2487 cc + batt,219 – 302 hp,200 km/h,6.0 – 8.1 sec,"$29,000 – $43,000",Hybrid / Plug-in,5,221 – 400 Nm,00113.jpg
+Volkswagen,Golf,1.5L Turbo I4 / Electric,1498 cc / 40 - 58 kWh,110 - 320 hp,210 km/h,8.5 sec,"$23,000 ",Petrol,5,250 Nm,00114.jpg
+Volkswagen,Passat,2.0L Turbo I4,1984 cc,150 - 280 hp,210 km/h,7.8 sec,"$25,000 ",Petrol,5,250 Nm,00115.jpg
+Volkswagen,Tiguan,2.0L Turbo I4,1984 cc,150 - 230 hp,209 km/h,8.5 sec,"$28,505 ","Petrol, Hybrid",7,300 Nm,00116.jpg
+Volkswagen,Jetta,1.5L Turbo I4,1498 cc,150 - 228 hp,210 km/h,7.7 sec,"$21,995 ",Petrol,5,250 Nm,00117.jpg
+VOLVO,S90,I6,"1,969 cc",295 hp,250 km/h,5.9 sec,"$60,000 ",Petrol/Diesel,5,400 Nm,00118.jpg
