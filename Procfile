@@ -1,1 +1,1 @@
-#web: gunicorn automarket.wsgi --log-file -
+web: gunicorn automarket.wsgi
