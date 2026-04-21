@@ -1,4 +1,4 @@
-owner,car_make,car_model,mileage,year,engine_size,transmission,created,description,price,fuel_type,seats,torque,images,id
+owner_id,car_make,car_model,mileage,year,engine_size,transmission,created,description,price,fuel_type,seats,torque,images,id
 alice,Acura,NSX Type S,"50,000",1999,"3,493 cc",manual,2026-04-18 16:45,This is a great car!,"$157,000 ",Petrol,2,666 Nm,00001.jpg,550e8400-e29b-41d4-a716-446655440000
 alice,Acura,TLX PMC Edition,"50,000",1999,"3,500 cc",manual,2026-04-19 16:45,This is a great car!,"$62,000 ",Petrol,5,362 Nm,00002.jpg,550e8400-e29b-41d4-a716-446655440001
 alice,Acura,MDX Advance,"50,000",1999,"3,500 cc",manual,2026-04-20 16:45,This is a great car!,"$60,000 ",Petrol,7,362 Nm,00003.jpg,550e8400-e29b-41d4-a716-446655440002
@@ -117,41 +117,3 @@ bob,Volkswagen,Passat,"100,000",2000,1984 cc,automatic,2026-08-10 16:45,This is 
 bob,Volkswagen,Tiguan,"100,000",2000,1984 cc,automatic,2026-08-11 16:45,This is a great car!,"$28,505 ",Petrol,7,300 Nm,00116.jpg,550e8400-e29b-41d4-a727-446655440009
 bob,Volkswagen,Jetta,"100,000",2000,1498 cc,automatic,2026-08-12 16:45,This is a great car!,"$21,995 ",Petrol,5,250 Nm,00117.jpg,550e8400-e29b-41d4-a728-446655440000
 bob,VOLVO,S90,"100,000",2000,"1,969 cc",automatic,2026-08-13 16:45,This is a great car!,"$60,000 ",Petrol,5,400 Nm,00118.jpg,550e8400-e29b-41d4-a728-446655440001
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
