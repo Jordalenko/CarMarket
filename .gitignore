@@ -1,4 +1,5 @@
 venv/
 *.sqlite3
+env.py
 *.pyc
 __pycache__
