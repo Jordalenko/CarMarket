@@ -1,119 +1,119 @@
 owner_id,car_make,car_model,mileage,year,engine_size,transmission,created,description,price,fuel_type,seats,torque,images,id
-alice,Acura,NSX Type S,"50,000",1999,"3,493 cc",manual,2026-04-18 16:45,This is a great car!,"$157,000 ",Petrol,2,666 Nm,00001.jpg,550e8400-e29b-41d4-a716-446655440000
-alice,Acura,TLX PMC Edition,"50,000",1999,"3,500 cc",manual,2026-04-19 16:45,This is a great car!,"$62,000 ",Petrol,5,362 Nm,00002.jpg,550e8400-e29b-41d4-a716-446655440001
-alice,Acura,MDX Advance,"50,000",1999,"3,500 cc",manual,2026-04-20 16:45,This is a great car!,"$60,000 ",Petrol,7,362 Nm,00003.jpg,550e8400-e29b-41d4-a716-446655440002
-alice,Acura,RDX Technology,"50,000",1999,"1,500 cc",manual,2026-04-21 16:45,This is a great car!,"$45,000 ",Petrol,5,400 Nm,00004.jpg,550e8400-e29b-41d4-a716-446655440003
-alice,ASTON MARTIN,VICTOR,"50,000",1999,"5,204 cc",manual,2026-04-22 16:45,This is a great car!,"$1,300,000 ",Petrol,2,821 Nm,00005.jpg,550e8400-e29b-41d4-a716-446655440004
-alice,AUDI,AUDI R8 Gt,"50,000",1999,"5,204 cc",manual,2026-04-23 16:45,This is a great car!,"$253,290 ",Petrol,2,560 Nm,00006.jpg,550e8400-e29b-41d4-a716-446655440005
-alice,AUDI,R8 V10 PLUS,"50,000",1999,"5,204 cc",manual,2026-04-24 16:45,This is a great car!,"$194,000 ",Petrol,2,560 Nm,00007.jpg,550e8400-e29b-41d4-a716-446655440006
-alice,AUDI,TT COUPE,"50,000",1999,"1,984 cc",manual,2026-04-25 16:45,This is a great car!,"$49,000 ",Petrol,2,400 Nm,00008.jpg,550e8400-e29b-41d4-a716-446655440007
-alice,BENTLEY,Continental GT Azure,"50,000",1999,"3,996 cc",manual,2026-04-26 16:45,This is a great car!,"$311,000 ",Petrol,4,900 Nm,00009.jpg,550e8400-e29b-41d4-a716-446655440008
-alice,BMW,Mclaren 720s,"50,000",1999,"3,994 cc",manual,2026-04-27 16:45,This is a great car!,"$499,000 ",Petrol,2,770 Nm,00010.jpg,550e8400-e29b-41d4-a716-446655440009
-alice,BMW,M5 CS,"50,000",1999,"4,395 cc",manual,2026-04-28 16:45,This is a great car!,"$142,000 ",Petrol,5,750 Nm,00011.jpg,550e8400-e29b-41d4-a717-446655440000
-alice,BMW,M4 GTS,"50,000",1999,"2,993 cc",manual,2026-04-29 16:45,This is a great car!,"$133,000 ",Petrol,4,600 Nm,00012.jpg,550e8400-e29b-41d4-a717-446655440001
-alice,BMW,M3 COMPETITION,"50,000",1999,"2,993 cc",manual,2026-04-30 16:45,This is a great car!,"$76,000 ",Petrol,5,650 Nm,00013.jpg,550e8400-e29b-41d4-a717-446655440002
-alice,Bugatti,Bolide,"50,000",1999,7993 cc,manual,2026-05-01 16:45,This is a great car!,"$4,500,000 ",Petrol,2,1600 Nm,00014.jpg,550e8400-e29b-41d4-a717-446655440003
-alice,Bugatti,Mistral,"50,000",1999,7993 cc,manual,2026-05-02 16:45,This is a great car!,"$5,000,000 ",Petrol,2,1600 Nm,00015.jpg,550e8400-e29b-41d4-a717-446655440004
-bob,Cadillac,CT4,"50,000",1999,2000 cc,manual,2026-05-03 16:45,This is a great car!,"$34,395 ",Petrol,5,350 Nm,00016.jpg,550e8400-e29b-41d4-a717-446655440005
-bob,Cadillac,CT4-V,"50,000",1999,2700 cc,manual,2026-05-04 16:45,This is a great car!,"$46,595 ",Petrol,5,500 Nm,00017.jpg,550e8400-e29b-41d4-a717-446655440006
-bob,Cadillac,CT5,"50,000",1999,2000 cc,manual,2026-05-05 16:45,This is a great car!,"$38,195 ",Petrol,5,350 Nm,00018.jpg,550e8400-e29b-41d4-a717-446655440007
-bob,Cadillac,CT5-V,"50,000",1999,3000 cc,manual,2026-05-06 16:45,This is a great car!,"$50,995 ",Petrol,5,550 Nm,00019.jpg,550e8400-e29b-41d4-a717-446655440008
-bob,Chevrolet,Silverado 1500 Custom,"50,000",1999,4300 cc,manual,2026-05-07 16:45,This is a great car!,"$34,900 ",Petrol,6,413 Nm,00020.jpg,550e8400-e29b-41d4-a717-446655440009
-bob,Chevrolet,Silverado 2500HD LTZ,"50,000",1999,6600 cc,manual,2026-05-08 16:45,This is a great car!,"$56,400 ",Diesel,6,1234 Nm,00021.jpg,550e8400-e29b-41d4-a718-446655440000
-bob,Chevrolet,Tahoe RST,"50,000",1999,5300 cc,manual,2026-05-09 16:45,This is a great car!,"$64,100 ",Petrol,7,519 Nm,00022.jpg,550e8400-e29b-41d4-a718-446655440001
-bob,Chevrolet,Suburban LT,"50,000",1999,5300 cc,manual,2026-05-10 16:45,This is a great car!,"$64,400 ",Petrol,8,519 Nm,00023.jpg,550e8400-e29b-41d4-a718-446655440002
-bob,Chevrolet,Bolt EV Premier,"50,000",1999,66 kWh,automatic,2026-05-11 16:45,This is a great car!,"$31,700 ",Electric,5,360 Nm,00024.jpg,550e8400-e29b-41d4-a718-446655440003
-bob,Chevrolet,Tahoe LS,"50,000",1999,5300 cc,automatic,2026-05-12 16:45,This is a great car!,"$56,995 ",Petrol,8,519 Nm,00025.jpg,550e8400-e29b-41d4-a718-446655440004
-bob,Chevrolet,Tahoe LT,"50,000",1999,5300 cc,automatic,2026-05-13 16:45,This is a great car!,"$62,495 ",Petrol,8,519 Nm,00026.jpg,550e8400-e29b-41d4-a718-446655440005
-bob,Chevrolet,Tahoe RST,"50,000",1999,5300 cc,automatic,2026-05-14 16:45,This is a great car!,"$64,100 ",Petrol,7,519 Nm,00027.jpg,550e8400-e29b-41d4-a718-446655440006
-bob,Chevrolet,Tahoe Z71,"50,000",1999,5300 cc,automatic,2026-05-15 16:45,This is a great car!,"$66,700 ",Petrol,7,519 Nm,00028.jpg,550e8400-e29b-41d4-a718-446655440007
-bob,Chevrolet,Tahoe Premier,"50,000",1999,6200 cc,automatic,2026-05-16 16:45,This is a great car!,"$71,600 ",Petrol,7,624 Nm,00029.jpg,550e8400-e29b-41d4-a718-446655440008
-bob,Chevrolet,Tahoe High Country,"50,000",1999,6200 cc,automatic,2026-05-17 16:45,This is a great car!,"$76,700 ",Petrol,7,624 Nm,00030.jpg,550e8400-e29b-41d4-a718-446655440009
-bob,Chevrolet,Tahoe Midnight Edition,"50,000",1999,5300 cc,automatic,2026-05-18 16:45,This is a great car!,"$65,500 ",Petrol,8,519 Nm,00031.jpg,550e8400-e29b-41d4-a719-446655440000
-bob,Chevrolet,Tahoe Sport Edition,"50,000",1999,6200 cc,automatic,2026-05-19 16:45,This is a great car!,"$70,000 ",Petrol,7,624 Nm,00032.jpg,550e8400-e29b-41d4-a719-446655440001
-bob,FERRARI,SF90 STRADALE,"50,000",1999,3990 cc,automatic,2026-05-20 16:45,This is a great car!,"$1,100,000 ",Petrol,2,800 Nm,00033.jpg,550e8400-e29b-41d4-a719-446655440002
-bob,FERRARI,F8 TRIBUTO,"50,000",1999,"3,900 cc",automatic,2026-05-21 16:45,This is a great car!,"$280,000 ",Petrol,2,770 Nm,00034.jpg,550e8400-e29b-41d4-a719-446655440003
-bob,FERRARI,812 GTS,"50,000",1999,6496 cc,automatic,2026-05-22 16:45,This is a great car!,"$350,000 ",Petrol,2,718 Nm,00035.jpg,550e8400-e29b-41d4-a719-446655440004
-bob,FERRARI,PORTOFINO,"50,000",1999,"3,900 cc",automatic,2026-05-23 16:45,This is a great car!,"$210,000 ",Petrol,2+2,760 Nm,00036.jpg,550e8400-e29b-41d4-a719-446655440005
-alice,Ford,Mustang (2024),"50,000",1999,"5,000 cc",automatic,2026-05-24 16:45,This is a great car!,"$60,000 ",Petrol,4,570 Nm,00037.jpg,550e8400-e29b-41d4-a719-446655440006
-alice,Ford,Ranger (2024),"50,000",1999,"2,000 cc",automatic,2026-05-25 16:45,This is a great car!,"$40,000 ",Diesel,5,500 Nm,00038.jpg,550e8400-e29b-41d4-a719-446655440007
-alice,Ford,Escape Plug-in Hybrid (2024),"50,000",1999,"2,500 cc",automatic,2026-05-26 16:45,This is a great car!,"$38,000 ",Hybrid,5,210 Nm,00039.jpg,550e8400-e29b-41d4-a719-446655440008
-alice,Ford,Bronco (2024),"50,000",1999,"2,700 cc",automatic,2026-05-27 16:45,This is a great car!,"$45,000 ",Petrol,5,542 Nm,00040.jpg,550e8400-e29b-41d4-a719-446655440009
-alice,Ford,Explorer (2024),"50,000",1999,"3,000 cc",automatic,2026-05-28 16:45,This is a great car!,"$55,000 ",Petrol,7,563 Nm,00041.jpg,550e8400-e29b-41d4-a720-446655440000
-alice,GMC,Terrain,"50,000",1999,1500 cc,automatic,2026-05-29 16:45,This is a great car!,"$29,900 ",Petrol,5,275 Nm,00042.jpg,550e8400-e29b-41d4-a720-446655440001
-alice,GMC,Acadia,"50,000",1999,2000 cc,automatic,2026-05-30 16:45,This is a great car!,"$36,800 ",Petrol,7,350 Nm,00043.jpg,550e8400-e29b-41d4-a720-446655440002
-alice,GMC,Yukon,"50,000",1999,5300 cc,automatic,2026-05-31 16:45,This is a great car!,"$57,400 ",Petrol,8,519 Nm,00044.jpg,550e8400-e29b-41d4-a720-446655440003
-alice,GMC,Yukon XL,"50,000",1999,6200 cc,automatic,2026-06-01 16:45,This is a great car!,"$61,100 ",Petrol,8,624 Nm,00045.jpg,550e8400-e29b-41d4-a720-446655440004
-alice,HONDA,PILOT,"50,000",1999,"3,471 cc",automatic,2026-06-02 16:45,This is a great car!,"$40,000 ",Petrol,8,360 Nm,00046.jpg,550e8400-e29b-41d4-a720-446655440005
-alice,HONDA,CIVIC HATCHBACK,"50,000",1999,"1,498 cc",automatic,2026-06-03 16:45,This is a great car!,"$26,350 ",Petrol,5,300 Nm,00047.jpg,550e8400-e29b-41d4-a720-446655440006
-alice,HONDA,CITY,"50,000",1999,"1,497 cc",automatic,2026-06-04 16:45,This is a great car!,"$15,400 ",Petrol,5,145 Nm,00048.jpg,550e8400-e29b-41d4-a720-446655440007
-alice,HONDA,CIVIC,"50,000",1999,"1,996 cc",automatic,2026-06-05 16:45,This is a great car!,"$20,400 ",Petrol,5,400 Nm,00049.jpg,550e8400-e29b-41d4-a720-446655440008
-alice,HYUNDAI,I10,"50,000",1999,"1,197 cc",automatic,2026-06-06 16:45,This is a great car!,"$12,400 ",Petrol,5,120 Nm,00050.jpg,550e8400-e29b-41d4-a720-446655440009
-alice,HYUNDAI,I20,"50,000",1999,"1,396 cc",automatic,2026-06-07 16:45,This is a great car!,"$15,400 ",Petrol,5,250 Nm,00051.jpg,550e8400-e29b-41d4-a721-446655440000
-bob,Jaguar Land Rover,Jaguar F-Type P450 AWD,"50,000",1999,5000 cc,automatic,2026-06-08 16:45,This is a great car!,"$90,000 ",Petrol,2,600 Nm,00052.jpg,550e8400-e29b-41d4-a721-446655440001
-bob,Jaguar Land Rover,Jaguar F-PACE P400e Plug-in Hybrid,"50,000",1999,1999 cc,automatic,2026-06-09 16:45,This is a great car!,"$75,000 ",Petrol,5,640 Nm,00053.jpg,550e8400-e29b-41d4-a721-446655440002
-bob,Jaguar Land Rover,Jaguar F-Type P300 Coupe,"50,000",1999,1999 cc,automatic,2026-06-10 16:45,This is a great car!,"$60,000 ",Petrol,2,400 Nm,00054.jpg,550e8400-e29b-41d4-a721-446655440003
-bob,Jeep,Wrangler,"50,000",1999,3600 cc,automatic,2026-06-11 16:45,This is a great car!,"$35,195 ",Petrol,4,353 Nm,00055.jpg,550e8400-e29b-41d4-a721-446655440004
-bob,Jeep,Wrangler Rubicon,"50,000",1999,2000 cc,automatic,2026-06-12 16:45,This is a great car!,"$42,100 ",Petrol,4,400 Nm,00056.jpg,550e8400-e29b-41d4-a721-446655440005
-bob,Jeep,Grand Cherokee,"50,000",1999,3600 cc,automatic,2026-06-13 16:45,This is a great car!,"$41,530 ",Petrol,5,352 Nm,00057.jpg,550e8400-e29b-41d4-a721-446655440006
-bob,Jeep,Renegade 4xe,"50,000",1999,11.4 kWh,automatic,2026-06-14 16:45,This is a great car!,"$44,500 ",Hybrid,5,270 Nm,00058.jpg,550e8400-e29b-41d4-a721-446655440007
-bob,Jeep,Wagoneer S (Electric),"50,000",1999,100 kWh,automatic,2026-06-15 16:45,This is a great car!,"$80,000 ",Electric,5,850 Nm,00059.jpg,550e8400-e29b-41d4-a721-446655440008
-bob,KIA,SPORTAGE 2024(SX TURBO AWD),"50,000",1999,"1,998 cc",automatic,2026-06-16 16:45,This is a great car!,"$40,000 ",Petrol,5,400 Nm,00060.jpg,550e8400-e29b-41d4-a721-446655440009
-bob,LAMBORGHINI,HURACAN STO EVO,"50,000",1999,"5,204 cc",automatic,2026-06-17 16:45,This is a great car!,"$342,000 ",Petrol,2,565 Nm,00061.jpg,550e8400-e29b-41d4-a722-446655440000
-bob,LAMBORGHINI,AVENTADOR LP 780-4 ULTIMATE ROADSTER,"50,000",1999,"6,498 cc",automatic,2026-06-18 16:45,This is a great car!,"$573,000 ",Petrol,2,720 Nm,00062.jpg,550e8400-e29b-41d4-a722-446655440001
-bob,MAHINDRA,XUV500,"100,000",1999,"2,179 cc",automatic,2026-06-19 16:45,This is a great car!,"$18,400 ",Diesel,7,400 Nm,00063.jpg,550e8400-e29b-41d4-a722-446655440002
-bob,MAHINDRA,SCORPIO,"100,000",1999,"2,179 cc",automatic,2026-06-20 16:45,This is a great car!,"$16,400 ",Diesel,7,280 Nm,00064.jpg,550e8400-e29b-41d4-a722-446655440003
-bob,Mazda,Mazda2,"100,000",1999,"1,500 cc",automatic,2026-06-21 16:45,This is a great car!,"$17,000-$20,000",Petrol,5,142 Nm,00065.jpg,550e8400-e29b-41d4-a722-446655440004
-bob,Mazda,Mazda3,"100,000",1999,"2,000 cc",automatic,2026-06-22 16:45,This is a great car!,"$22,000 - $26,000",Petrol,5,213 Nm,00066.jpg,550e8400-e29b-41d4-a722-446655440005
-bob,Mazda,Mazda3 Hatchback,"100,000",1999,"2,500 cc",automatic,2026-06-23 16:45,This is a great car!,"$24,000 - $28,000",Petrol,5,252 Nm,00067.jpg,550e8400-e29b-41d4-a722-446655440006
-bob,Mazda,Mazda6,"100,000",1999,"2,500 cc",automatic,2026-06-24 16:45,This is a great car!,"$27,000 - $35,000",Petrol,5,420 Nm,00068.jpg,550e8400-e29b-41d4-a722-446655440007
-bob,Mazda,CX-3,"100,000",1999,"2,000 cc",automatic,2026-06-25 16:45,This is a great car!,"$21,000 - $25,000",Petrol,5,197 Nm,00069.jpg,550e8400-e29b-41d4-a722-446655440008
-bob,MERCEDES,BENZ GLE 53,"100,000",1999,"2,996 cc",automatic,2026-06-26 16:45,This is a great car!,"$71,000 ",Petrol,5,620 Nm,00070.jpg,550e8400-e29b-41d4-a722-446655440009
-bob,MERCEDES,BENZ S-CLASS S 350,"100,000",1999,"1,991 cc",automatic,2026-06-27 16:45,This is a great car!,"$90,000 ",Petrol,5,500 Nm,00071.jpg,550e8400-e29b-41d4-a723-446655440000
-bob,MERCEDES,BENZ EQS 53,"100,000",1999,100 kWh,automatic,2026-06-28 16:45,This is a great car!,"$102,000 ",Electric,5,950 Nm,00072.jpg,550e8400-e29b-41d4-a723-446655440001
-alice,MERCEDES,BENZ MAYBACH S 680,"100,000",1999,"5,980 cc",automatic,2026-06-29 16:45,This is a great car!,"$200,000 ",Petrol,5,1000 Nm,00073.jpg,550e8400-e29b-41d4-a723-446655440002
-alice,Mitsubishi,Mirage,"100,000",1999,"1,200 cc",automatic,2026-06-30 16:45,This is a great car!,"$16,000 - $18,000",Petrol,5,100 Nm,00074.jpg,550e8400-e29b-41d4-a723-446655440003
-alice,Mitsubishi,Mirage G4,"100,000",1999,"1,200 cc",automatic,2026-07-01 16:45,This is a great car!,"$17,000 - $19,000",Petrol,5,100 Nm,00075.jpg,550e8400-e29b-41d4-a723-446655440004
-alice,Mitsubishi,Outlander,"100,000",1999,"2,500 cc",automatic,2026-07-02 16:45,This is a great car!,"$28,000 - $35,000",Petrol,7,245 Nm,00076.jpg,550e8400-e29b-41d4-a723-446655440005
-alice,NISSAN,ALTIMA,"100,000",1999,"2,488 cc",automatic,2026-07-03 16:45,This is a great car!,"$25,000 ",Petrol,5,380 Nm,00077.jpg,550e8400-e29b-41d4-a723-446655440006
-alice,NISSAN,MAXIMA,"100,000",1999,"3,498 cc",automatic,2026-07-04 16:45,This is a great car!,"$35,000 ",Petrol,5,354 Nm,00078.jpg,550e8400-e29b-41d4-a723-446655440007
-alice,NISSAN,SENTRA,"100,000",1999,"1,998 cc",automatic,2026-07-05 16:45,This is a great car!,"$20,000 ",Petrol,5,240 Nm,00079.jpg,550e8400-e29b-41d4-a723-446655440008
-alice,NISSAN,ROGUE,"100,000",1999,"2,488 cc",automatic,2026-07-06 16:45,This is a great car!,"$28,000 ",Petrol,5,270 Nm,00080.jpg,550e8400-e29b-41d4-a723-446655440009
-alice,NISSAN,PATHFINDER,"100,000",1999,"3,498 cc",automatic,2026-07-07 16:45,This is a great car!,"$35,000 ",Petrol,7,351 Nm,00081.jpg,550e8400-e29b-41d4-a724-446655440004
-alice,Peugeot,208 PSE (Peugeot Sport Engineered),"100,000",1999,"1,598 cc",automatic,2026-07-08 16:45,This is a great car!,"$45,000 ",Petrol,5,360 Nm,00082.jpg,550e8400-e29b-41d4-a724-446655440005
-alice,Peugeot,308 PSE,"100,000",1999,"1,598 cc",automatic,2026-07-09 16:45,This is a great car!,"$55,000 ",Petrol,5,520 Nm,00083.jpg,550e8400-e29b-41d4-a724-446655440006
-alice,Peugeot,508 PSE,"100,000",1999,"1,598 cc",automatic,2026-07-10 16:45,This is a great car!,"$60,000 ",Petrol,5,520 Nm,00084.jpg,550e8400-e29b-41d4-a724-446655440007
-alice,Peugeot,3008 PSE,"100,000",1999,"1,598 cc",automatic,2026-07-11 16:45,This is a great car!,"$50,000 ",Petrol,5,400 Nm,00085.jpg,550e8400-e29b-41d4-a724-446655440008
-alice,Peugeot,2008 Active,"100,000",1999,"1,199 cc",automatic,2026-07-12 16:45,This is a great car!,"$22,000 ",Petrol,5,205 Nm,00086.jpg,550e8400-e29b-41d4-a724-446655440009
-alice,Peugeot,3008 Active,"100,000",1999,"1,499 cc",automatic,2026-07-13 16:45,This is a great car!,"$30,000 ",Petrol,5,240 Nm,00087.jpg,550e8400-e29b-41d4-a725-446655440000
-bob,Peugeot,5008 Active,"100,000",1999,"1,499 cc",automatic,2026-07-14 16:45,This is a great car!,"$33,000 ",Petrol,7,240 Nm,00088.jpg,550e8400-e29b-41d4-a725-446655440001
-bob,Peugeot,3008 Allure Premium,"100,000",1999,"1,499 cc",automatic,2026-07-15 16:45,This is a great car!,"$32,000 ",Petrol,5,240 Nm,00089.jpg,550e8400-e29b-41d4-a725-446655440002
-bob,Peugeot,5008 Allure Premium,"100,000",1999,"1,499 cc",automatic,2026-07-16 16:45,This is a great car!,"$35,000 ",Petrol,7,240 Nm,00090.jpg,550e8400-e29b-41d4-a725-446655440003
-bob,Peugeot,3008 GT Line,"100,000",1999,"1,598 cc",automatic,2026-07-17 16:45,This is a great car!,"$35,000 ",Petrol,5,250 Nm,00091.jpg,550e8400-e29b-41d4-a725-446655440004
-bob,Peugeot,5008 GT Line,"100,000",1999,"1,598 cc",automatic,2026-07-18 16:45,This is a great car!,"$38,000 ",Petrol,7,250 Nm,00092.jpg,550e8400-e29b-41d4-a725-446655440005
-bob,Porsche,911 Carrera,"100,000",1999,2981 cc,automatic,2026-07-19 16:45,This is a great car!,"$110,000 ",Petrol,4,450 Nm,00093.jpg,550e8400-e29b-41d4-a725-446655440006
-bob,Porsche,911 Carrera S,"100,000",1999,2981 cc,automatic,2026-07-20 16:45,This is a great car!,"$131,300 ",Petrol,4,528 Nm,00094.jpg,550e8400-e29b-41d4-a725-446655440007
-bob,Porsche,911 Carrera 4,"100,000",1999,2981 cc,automatic,2026-07-21 16:45,This is a great car!,"$106,500 ",Petrol,4,450 Nm,00095.jpg,550e8400-e29b-41d4-a725-446655440008
-bob,Porsche,911 Carrera 4S,"100,000",1999,2981 cc,automatic,2026-07-22 16:45,This is a great car!,"$113,300 ",Petrol,4,528 Nm,00096.jpg,550e8400-e29b-41d4-a725-446655440009
-bob,ROLLS ROYCE ,GHOST,"100,000",1999,"6,592 cc",automatic,2026-07-23 16:45,This is a great car!,"$332,000 ",Petrol,5,850 Nm,00097.jpg,550e8400-e29b-41d4-a726-446655440000
-bob,Tesla,Model 3,"100,000",1999,60 kWh,automatic,2026-07-24 16:45,This is a great car!,"$40,240 ",Electric,5,420 Nm,00098.jpg,550e8400-e29b-41d4-a726-446655440001
-bob,Tesla,Model 3 Performance,"100,000",1999,82 kWh,automatic,2026-07-25 16:45,This is a great car!,"$53,240 ",Electric,5,660 Nm,00099.jpg,550e8400-e29b-41d4-a726-446655440002
-bob,Tesla,Model X,"100,000",1999,100 kWh,automatic,2026-07-26 16:45,This is a great car!,"$98,490 ",Electric,7,967 Nm,00100.jpg,550e8400-e29b-41d4-a726-446655440003
-bob,Tesla,Model X Plaid,"100,000",1999,100 kWh,automatic,2026-07-27 16:45,This is a great car!,"$113,490 ",Electric,6,"1,400 Nm",00101.jpg,550e8400-e29b-41d4-a726-446655440004
-bob,Tesla,Model Y,"100,000",1999,75 kWh,automatic,2026-07-28 16:45,This is a great car!,"$47,490 ",Electric,5,498 Nm,00102.jpg,550e8400-e29b-41d4-a726-446655440005
-bob,TOYOTA,GR SUPRA,"100,000",2000,"2,998 cc",automatic,2026-07-29 16:45,This is a great car!,"$53,900 ",Petrol,2,500 Nm,00103.jpg,550e8400-e29b-41d4-a726-446655440006
-bob,TOYOTA,TOYOTA 86,"100,000",2000,"1,998 cc",automatic,2026-07-30 16:45,This is a great car!,"$27,000 ",Petrol,2+2,205 Nm,00104.jpg,550e8400-e29b-41d4-a726-446655440007
-bob,TOYOTA,TOYOTA  GR86,"100,000",2000,"2,387 cc",automatic,2026-07-31 16:45,This is a great car!,"$30,000 ",Petrol,4,250 Nm,00105.jpg,550e8400-e29b-41d4-a726-446655440008
-bob,TOYOTA,TOYOTA LAND CRUISER,"100,000",2000,"5,663 cc",automatic,2026-08-01 16:45,This is a great car!,"$85,000 ",Diesel,7,500 Nm,00106.jpg,550e8400-e29b-41d4-a726-446655440009
-bob,TOYOTA,TACOMA,"100,000",2000,"2,694 cc",automatic,2026-08-02 16:45,This is a great car!,"$26,400 ",Petrol,5,400 Nm,00107.jpg,550e8400-e29b-41d4-a727-446655440000
-bob,TOYOTA,TUNDRA,"100,000",2000,"5,663 cc",automatic,2026-08-03 16:45,This is a great car!,"$39,900 ",Petrol,5,650 Nm,00108.jpg,550e8400-e29b-41d4-a727-446655440001
-bob,TOYOTA,TUNDRA HYBRID,"100,000",2000,"3,456 cc",automatic,2026-08-04 16:45,This is a great car!,"$43,400 ",Hybrid,5,650 Nm,00109.jpg,550e8400-e29b-41d4-a727-446655440002
-bob,TOYOTA,YARIS,"100,000",2000,"1,496 cc",automatic,2026-08-05 16:45,This is a great car!,"$18,400 ",Petrol,5,150 Nm,00110.jpg,550e8400-e29b-41d4-a727-446655440003
-bob,TOYOTA,AYGO X,"100,000",2000,998 cc,automatic,2026-08-06 16:45,This is a great car!,"$18,000 ",Petrol,4,93 Nm,00111.jpg,550e8400-e29b-41d4-a727-446655440004
-bob,TOYOTA,HILUX REVO ROCCO,"100,000",2000,"2,755 cc",automatic,2026-08-07 16:45,This is a great car!,"$50,000 ",Diesel,5,500 Nm,00112.jpg,550e8400-e29b-41d4-a727-446655440005
-bob,Toyota,RAV4 (6th Gen),"100,000",2000,2487 cc,automatic,2026-08-08 16:45,This is a great car!,"$29,000 – $43,000",Petrol,5,221 – 400 Nm,00113.jpg,550e8400-e29b-41d4-a727-446655440006
-bob,Volkswagen,Golf,"100,000",2000,1498 cc,automatic,2026-08-09 16:45,This is a great car!,"$23,000 ",Petrol,5,250 Nm,00114.jpg,550e8400-e29b-41d4-a727-446655440007
-bob,Volkswagen,Passat,"100,000",2000,1984 cc,automatic,2026-08-10 16:45,This is a great car!,"$25,000 ",Petrol,5,250 Nm,00115.jpg,550e8400-e29b-41d4-a727-446655440008
-bob,Volkswagen,Tiguan,"100,000",2000,1984 cc,automatic,2026-08-11 16:45,This is a great car!,"$28,505 ",Petrol,7,300 Nm,00116.jpg,550e8400-e29b-41d4-a727-446655440009
-bob,Volkswagen,Jetta,"100,000",2000,1498 cc,automatic,2026-08-12 16:45,This is a great car!,"$21,995 ",Petrol,5,250 Nm,00117.jpg,550e8400-e29b-41d4-a728-446655440000
-bob,VOLVO,S90,"100,000",2000,"1,969 cc",automatic,2026-08-13 16:45,This is a great car!,"$60,000 ",Petrol,5,400 Nm,00118.jpg,550e8400-e29b-41d4-a728-446655440001
+alice,Acura,NSX Type S,50000,1999,"3,493 cc",manual,2026-04-18 16:45,This is a great car!,157000,Petrol,2,666,00001.jpg,550e8400-e29b-41d4-a716-446655440000
+alice,Acura,TLX PMC Edition,50000,1999,"3,500 cc",manual,2026-04-19 16:45,This is a great car!,62000,Petrol,5,362,00002.jpg,550e8400-e29b-41d4-a716-446655440001
+alice,Acura,MDX Advance,50000,1999,"3,500 cc",manual,2026-04-20 16:45,This is a great car!,60000,Petrol,7,362,00003.jpg,550e8400-e29b-41d4-a716-446655440002
+alice,Acura,RDX Technology,50000,1999,"1,500 cc",manual,2026-04-21 16:45,This is a great car!,45000,Petrol,5,400,00004.jpg,550e8400-e29b-41d4-a716-446655440003
+alice,ASTON MARTIN,VICTOR,50000,1999,"5,204 cc",manual,2026-04-22 16:45,This is a great car!,1300000,Petrol,2,821,00005.jpg,550e8400-e29b-41d4-a716-446655440004
+alice,AUDI,AUDI R8 Gt,50000,1999,"5,204 cc",manual,2026-04-23 16:45,This is a great car!,253290,Petrol,2,560,00006.jpg,550e8400-e29b-41d4-a716-446655440005
+alice,AUDI,R8 V10 PLUS,50000,1999,"5,204 cc",manual,2026-04-24 16:45,This is a great car!,194000,Petrol,2,560,00007.jpg,550e8400-e29b-41d4-a716-446655440006
+alice,AUDI,TT COUPE,50000,1999,"1,984 cc",manual,2026-04-25 16:45,This is a great car!,49000,Petrol,2,400,00008.jpg,550e8400-e29b-41d4-a716-446655440007
+alice,BENTLEY,Continental GT Azure,50000,1999,"3,996 cc",manual,2026-04-26 16:45,This is a great car!,311000,Petrol,4,900,00009.jpg,550e8400-e29b-41d4-a716-446655440008
+alice,BMW,Mclaren 720s,50000,1999,"3,994 cc",manual,2026-04-27 16:45,This is a great car!,499000,Petrol,2,770,00010.jpg,550e8400-e29b-41d4-a716-446655440009
+alice,BMW,M5 CS,50000,1999,"4,395 cc",manual,2026-04-28 16:45,This is a great car!,142000,Petrol,5,750,00011.jpg,550e8400-e29b-41d4-a717-446655440000
+alice,BMW,M4 GTS,50000,1999,"2,993 cc",manual,2026-04-29 16:45,This is a great car!,133000,Petrol,4,600,00012.jpg,550e8400-e29b-41d4-a717-446655440001
+alice,BMW,M3 COMPETITION,50000,1999,"2,993 cc",manual,2026-04-30 16:45,This is a great car!,76000,Petrol,5,650,00013.jpg,550e8400-e29b-41d4-a717-446655440002
+alice,Bugatti,Bolide,50000,1999,7993 cc,manual,2026-05-01 16:45,This is a great car!,4500000,Petrol,2,1600,00014.jpg,550e8400-e29b-41d4-a717-446655440003
+alice,Bugatti,Mistral,50000,1999,7993 cc,manual,2026-05-02 16:45,This is a great car!,5000000,Petrol,2,1600,00015.jpg,550e8400-e29b-41d4-a717-446655440004
+bob,Cadillac,CT4,50000,1999,2000 cc,manual,2026-05-03 16:45,This is a great car!,34395,Petrol,5,350,00016.jpg,550e8400-e29b-41d4-a717-446655440005
+bob,Cadillac,CT4-V,50000,1999,2700 cc,manual,2026-05-04 16:45,This is a great car!,46595,Petrol,5,500,00017.jpg,550e8400-e29b-41d4-a717-446655440006
+bob,Cadillac,CT5,50000,1999,2000 cc,manual,2026-05-05 16:45,This is a great car!,38195,Petrol,5,350,00018.jpg,550e8400-e29b-41d4-a717-446655440007
+bob,Cadillac,CT5-V,50000,1999,3000 cc,manual,2026-05-06 16:45,This is a great car!,50995,Petrol,5,550,00019.jpg,550e8400-e29b-41d4-a717-446655440008
+bob,Chevrolet,Silverado 1500 Custom,50000,1999,4300 cc,manual,2026-05-07 16:45,This is a great car!,34900,Petrol,6,413,00020.jpg,550e8400-e29b-41d4-a717-446655440009
+bob,Chevrolet,Silverado 2500HD LTZ,50000,1999,6600 cc,manual,2026-05-08 16:45,This is a great car!,56400,Diesel,6,1234,00021.jpg,550e8400-e29b-41d4-a718-446655440000
+bob,Chevrolet,Tahoe RST,50000,1999,5300 cc,manual,2026-05-09 16:45,This is a great car!,64100,Petrol,7,519,00022.jpg,550e8400-e29b-41d4-a718-446655440001
+bob,Chevrolet,Suburban LT,50000,1999,5300 cc,manual,2026-05-10 16:45,This is a great car!,64400,Petrol,8,519,00023.jpg,550e8400-e29b-41d4-a718-446655440002
+bob,Chevrolet,Bolt EV Premier,50000,1999,66 kWh,automatic,2026-05-11 16:45,This is a great car!,31700,Electric,5,360,00024.jpg,550e8400-e29b-41d4-a718-446655440003
+bob,Chevrolet,Tahoe LS,50000,1999,5300 cc,automatic,2026-05-12 16:45,This is a great car!,56995,Petrol,8,519,00025.jpg,550e8400-e29b-41d4-a718-446655440004
+bob,Chevrolet,Tahoe LT,50000,1999,5300 cc,automatic,2026-05-13 16:45,This is a great car!,62495,Petrol,8,519,00026.jpg,550e8400-e29b-41d4-a718-446655440005
+bob,Chevrolet,Tahoe RST,50000,1999,5300 cc,automatic,2026-05-14 16:45,This is a great car!,64100,Petrol,7,519,00027.jpg,550e8400-e29b-41d4-a718-446655440006
+bob,Chevrolet,Tahoe Z71,50000,1999,5300 cc,automatic,2026-05-15 16:45,This is a great car!,66700,Petrol,7,519,00028.jpg,550e8400-e29b-41d4-a718-446655440007
+bob,Chevrolet,Tahoe Premier,50000,1999,6200 cc,automatic,2026-05-16 16:45,This is a great car!,71600,Petrol,7,624,00029.jpg,550e8400-e29b-41d4-a718-446655440008
+bob,Chevrolet,Tahoe High Country,50000,1999,6200 cc,automatic,2026-05-17 16:45,This is a great car!,76700,Petrol,7,624,00030.jpg,550e8400-e29b-41d4-a718-446655440009
+bob,Chevrolet,Tahoe Midnight Edition,50000,1999,5300 cc,automatic,2026-05-18 16:45,This is a great car!,65500,Petrol,8,519,00031.jpg,550e8400-e29b-41d4-a719-446655440000
+bob,Chevrolet,Tahoe Sport Edition,50000,1999,6200 cc,automatic,2026-05-19 16:45,This is a great car!,70000,Petrol,7,624,00032.jpg,550e8400-e29b-41d4-a719-446655440001
+bob,FERRARI,SF90 STRADALE,50000,1999,3990 cc,automatic,2026-05-20 16:45,This is a great car!,1100000,Petrol,2,800,00033.jpg,550e8400-e29b-41d4-a719-446655440002
+bob,FERRARI,F8 TRIBUTO,50000,1999,"3,900 cc",automatic,2026-05-21 16:45,This is a great car!,280000,Petrol,2,770,00034.jpg,550e8400-e29b-41d4-a719-446655440003
+bob,FERRARI,812 GTS,50000,1999,6496 cc,automatic,2026-05-22 16:45,This is a great car!,350000,Petrol,2,718,00035.jpg,550e8400-e29b-41d4-a719-446655440004
+bob,FERRARI,PORTOFINO,50000,1999,"3,900 cc",automatic,2026-05-23 16:45,This is a great car!,210000,Petrol,4,760,00036.jpg,550e8400-e29b-41d4-a719-446655440005
+alice,Ford,Mustang,50000,1999,"5,000 cc",automatic,2026-05-24 16:45,This is a great car!,60000,Petrol,4,570,00037.jpg,550e8400-e29b-41d4-a719-446655440006
+alice,Ford,Ranger,50000,1999,"2,000 cc",automatic,2026-05-25 16:45,This is a great car!,40000,Diesel,5,500,00038.jpg,550e8400-e29b-41d4-a719-446655440007
+alice,Ford,Escape Plug-in Hybrid (2024),50000,1999,"2,500 cc",automatic,2026-05-26 16:45,This is a great car!,38000,Hybrid,5,210,00039.jpg,550e8400-e29b-41d4-a719-446655440008
+alice,Ford,Bronco,50000,1999,"2,700 cc",automatic,2026-05-27 16:45,This is a great car!,45000,Petrol,5,542,00040.jpg,550e8400-e29b-41d4-a719-446655440009
+alice,Ford,Explorer,50000,1999,"3,000 cc",automatic,2026-05-28 16:45,This is a great car!,55000,Petrol,7,563,00041.jpg,550e8400-e29b-41d4-a720-446655440000
+alice,GMC,Terrain,50000,1999,1500 cc,automatic,2026-05-29 16:45,This is a great car!,29900,Petrol,5,275,00042.jpg,550e8400-e29b-41d4-a720-446655440001
+alice,GMC,Acadia,50000,1999,2000 cc,automatic,2026-05-30 16:45,This is a great car!,36800,Petrol,7,350,00043.jpg,550e8400-e29b-41d4-a720-446655440002
+alice,GMC,Yukon,50000,1999,5300 cc,automatic,2026-05-31 16:45,This is a great car!,57400,Petrol,8,519,00044.jpg,550e8400-e29b-41d4-a720-446655440003
+alice,GMC,Yukon XL,50000,1999,6200 cc,automatic,2026-06-01 16:45,This is a great car!,61100,Petrol,8,624,00045.jpg,550e8400-e29b-41d4-a720-446655440004
+alice,HONDA,PILOT,50000,1999,"3,471 cc",automatic,2026-06-02 16:45,This is a great car!,40000,Petrol,8,360,00046.jpg,550e8400-e29b-41d4-a720-446655440005
+alice,HONDA,CIVIC HATCHBACK,50000,1999,"1,498 cc",automatic,2026-06-03 16:45,This is a great car!,26350,Petrol,5,300,00047.jpg,550e8400-e29b-41d4-a720-446655440006
+alice,HONDA,CITY,50000,1999,"1,497 cc",automatic,2026-06-04 16:45,This is a great car!,15400,Petrol,5,145,00048.jpg,550e8400-e29b-41d4-a720-446655440007
+alice,HONDA,CIVIC,50000,1999,"1,996 cc",automatic,2026-06-05 16:45,This is a great car!,20400,Petrol,5,400,00049.jpg,550e8400-e29b-41d4-a720-446655440008
+alice,HYUNDAI,I10,50000,1999,"1,197 cc",automatic,2026-06-06 16:45,This is a great car!,12400,Petrol,5,120,00050.jpg,550e8400-e29b-41d4-a720-446655440009
+alice,HYUNDAI,I20,50000,1999,"1,396 cc",automatic,2026-06-07 16:45,This is a great car!,15400,Petrol,5,250,00051.jpg,550e8400-e29b-41d4-a721-446655440000
+bob,Jaguar Land Rover,Jaguar F-Type P450 AWD,50000,1999,5000 cc,automatic,2026-06-08 16:45,This is a great car!,90000,Petrol,2,600,00052.jpg,550e8400-e29b-41d4-a721-446655440001
+bob,Jaguar Land Rover,Jaguar F-PACE P400e Plug-in Hybrid,50000,1999,1999 cc,automatic,2026-06-09 16:45,This is a great car!,75000,Petrol,5,640,00053.jpg,550e8400-e29b-41d4-a721-446655440002
+bob,Jaguar Land Rover,Jaguar F-Type P300 Coupe,50000,1999,1999 cc,automatic,2026-06-10 16:45,This is a great car!,60000,Petrol,2,400,00054.jpg,550e8400-e29b-41d4-a721-446655440003
+bob,Jeep,Wrangler,50000,1999,3600 cc,automatic,2026-06-11 16:45,This is a great car!,35195,Petrol,4,353,00055.jpg,550e8400-e29b-41d4-a721-446655440004
+bob,Jeep,Wrangler Rubicon,50000,1999,2000 cc,automatic,2026-06-12 16:45,This is a great car!,42100,Petrol,4,400,00056.jpg,550e8400-e29b-41d4-a721-446655440005
+bob,Jeep,Grand Cherokee,50000,1999,3600 cc,automatic,2026-06-13 16:45,This is a great car!,41530,Petrol,5,352,00057.jpg,550e8400-e29b-41d4-a721-446655440006
+bob,Jeep,Renegade 4xe,50000,1999,11.4 kWh,automatic,2026-06-14 16:45,This is a great car!,44500,Hybrid,5,270,00058.jpg,550e8400-e29b-41d4-a721-446655440007
+bob,Jeep,Wagoneer S,50000,1999,100 kWh,automatic,2026-06-15 16:45,This is a great car!,80000,Electric,5,850,00059.jpg,550e8400-e29b-41d4-a721-446655440008
+bob,KIA,SPORTAGE 2024(SX TURBO AWD),50000,1999,1998 cc,automatic,2026-06-16 16:45,This is a great car!,40000,Petrol,5,400,00060.jpg,550e8400-e29b-41d4-a721-446655440009
+bob,LAMBORGHINI,HURACAN STO EVO,50000,1999,5204 cc,automatic,2026-06-17 16:45,This is a great car!,342000,Petrol,2,565,00061.jpg,550e8400-e29b-41d4-a722-446655440000
+bob,LAMBORGHINI,AVENTADOR LP 780-4 ULTIMATE ROADSTER,50000,1999,6498 cc,automatic,2026-06-18 16:45,This is a great car!,573000,Petrol,2,720,00062.jpg,550e8400-e29b-41d4-a722-446655440001
+bob,MAHINDRA,XUV500,100000,1999,2179 cc,automatic,2026-06-19 16:45,This is a great car!,18400,Diesel,7,400,00063.jpg,550e8400-e29b-41d4-a722-446655440002
+bob,MAHINDRA,SCORPIO,100000,1999,2179 cc,automatic,2026-06-20 16:45,This is a great car!,16400,Diesel,7,280,00064.jpg,550e8400-e29b-41d4-a722-446655440003
+bob,Mazda,Mazda2,100000,1999,1500 cc,automatic,2026-06-21 16:45,This is a great car!,18400,Petrol,5,142,00065.jpg,550e8400-e29b-41d4-a722-446655440004
+bob,Mazda,Mazda3,100000,1999,2000 cc,automatic,2026-06-22 16:45,This is a great car!,18400,Petrol,5,213,00066.jpg,550e8400-e29b-41d4-a722-446655440005
+bob,Mazda,Mazda3 Hatchback,100000,1999,2500 cc,automatic,2026-06-23 16:45,This is a great car!,18400,Petrol,5,252,00067.jpg,550e8400-e29b-41d4-a722-446655440006
+bob,Mazda,Mazda6,100000,1999,2500 cc,automatic,2026-06-24 16:45,This is a great car!,18400,Petrol,5,420,00068.jpg,550e8400-e29b-41d4-a722-446655440007
+bob,Mazda,CX-3,100000,1999,2000 cc,automatic,2026-06-25 16:45,This is a great car!,18400,Petrol,5,197,00069.jpg,550e8400-e29b-41d4-a722-446655440008
+bob,MERCEDES,BENZ GLE 53,100000,1999,2996 cc,automatic,2026-06-26 16:45,This is a great car!,71000,Petrol,5,620,00070.jpg,550e8400-e29b-41d4-a722-446655440009
+bob,MERCEDES,BENZ S-CLASS S 350,100000,1999,1991 cc,automatic,2026-06-27 16:45,This is a great car!,90000,Petrol,5,500,00071.jpg,550e8400-e29b-41d4-a723-446655440000
+bob,MERCEDES,BENZ EQS 53,100000,1999,100 kWh,automatic,2026-06-28 16:45,This is a great car!,102000,Electric,5,950,00072.jpg,550e8400-e29b-41d4-a723-446655440001
+alice,MERCEDES,BENZ MAYBACH S 680,100000,1999,5980 cc,automatic,2026-06-29 16:45,This is a great car!,200000,Petrol,5,1000,00073.jpg,550e8400-e29b-41d4-a723-446655440002
+alice,Mitsubishi,Mirage,100000,1999,1200 cc,automatic,2026-06-30 16:45,This is a great car!,200000,Petrol,5,100,00074.jpg,550e8400-e29b-41d4-a723-446655440003
+alice,Mitsubishi,Mirage G4,100000,1999,1200 cc,automatic,2026-07-01 16:45,This is a great car!,200000,Petrol,5,100,00075.jpg,550e8400-e29b-41d4-a723-446655440004
+alice,Mitsubishi,Outlander,100000,1999,2500 cc,automatic,2026-07-02 16:45,This is a great car!,200000,Petrol,7,245,00076.jpg,550e8400-e29b-41d4-a723-446655440005
+alice,NISSAN,ALTIMA,100000,1999,2488 cc,automatic,2026-07-03 16:45,This is a great car!,25000,Petrol,5,380,00077.jpg,550e8400-e29b-41d4-a723-446655440006
+alice,NISSAN,MAXIMA,100000,1999,3498 cc,automatic,2026-07-04 16:45,This is a great car!,35000,Petrol,5,354,00078.jpg,550e8400-e29b-41d4-a723-446655440007
+alice,NISSAN,SENTRA,100000,1999,1998 cc,automatic,2026-07-05 16:45,This is a great car!,20000,Petrol,5,240,00079.jpg,550e8400-e29b-41d4-a723-446655440008
+alice,NISSAN,ROGUE,100000,1999,2488 cc,automatic,2026-07-06 16:45,This is a great car!,28000,Petrol,5,270,00080.jpg,550e8400-e29b-41d4-a723-446655440009
+alice,NISSAN,PATHFINDER,100000,1999,3498 cc,automatic,2026-07-07 16:45,This is a great car!,35000,Petrol,7,351,00081.jpg,550e8400-e29b-41d4-a724-446655440004
+alice,Peugeot,208 PSE,100000,1999,1598 cc,automatic,2026-07-08 16:45,This is a great car!,45000,Petrol,5,360,00082.jpg,550e8400-e29b-41d4-a724-446655440005
+alice,Peugeot,308 PSE,100000,1999,1598 cc,automatic,2026-07-09 16:45,This is a great car!,55000,Petrol,5,520,00083.jpg,550e8400-e29b-41d4-a724-446655440006
+alice,Peugeot,508 PSE,100000,1999,1598 cc,automatic,2026-07-10 16:45,This is a great car!,60000,Petrol,5,520,00084.jpg,550e8400-e29b-41d4-a724-446655440007
+alice,Peugeot,3008 PSE,100000,1999,1598 cc,automatic,2026-07-11 16:45,This is a great car!,50000,Petrol,5,400,00085.jpg,550e8400-e29b-41d4-a724-446655440008
+alice,Peugeot,2008 Active,100000,1999,1199 cc,automatic,2026-07-12 16:45,This is a great car!,22000,Petrol,5,205,00086.jpg,550e8400-e29b-41d4-a724-446655440009
+alice,Peugeot,3008 Active,100000,1999,1499 cc,automatic,2026-07-13 16:45,This is a great car!,30000,Petrol,5,240,00087.jpg,550e8400-e29b-41d4-a725-446655440000
+bob,Peugeot,5008 Active,100000,1999,1499 cc,automatic,2026-07-14 16:45,This is a great car!,33000,Petrol,7,240,00088.jpg,550e8400-e29b-41d4-a725-446655440001
+bob,Peugeot,3008 Allure Premium,100000,1999,1499 cc,automatic,2026-07-15 16:45,This is a great car!,32000,Petrol,5,240,00089.jpg,550e8400-e29b-41d4-a725-446655440002
+bob,Peugeot,5008 Allure Premium,100000,1999,1499 cc,automatic,2026-07-16 16:45,This is a great car!,35000,Petrol,7,240,00090.jpg,550e8400-e29b-41d4-a725-446655440003
+bob,Peugeot,3008 GT Line,100000,1999,1598 cc,automatic,2026-07-17 16:45,This is a great car!,35000,Petrol,5,250,00091.jpg,550e8400-e29b-41d4-a725-446655440004
+bob,Peugeot,5008 GT Line,100000,1999,1598 cc,automatic,2026-07-18 16:45,This is a great car!,38000,Petrol,7,250,00092.jpg,550e8400-e29b-41d4-a725-446655440005
+bob,Porsche,911 Carrera,100000,1999,2981 cc,automatic,2026-07-19 16:45,This is a great car!,110000,Petrol,4,450,00093.jpg,550e8400-e29b-41d4-a725-446655440006
+bob,Porsche,911 Carrera S,100000,1999,2981 cc,automatic,2026-07-20 16:45,This is a great car!,131300,Petrol,4,528,00094.jpg,550e8400-e29b-41d4-a725-446655440007
+bob,Porsche,911 Carrera 4,100000,1999,2981 cc,automatic,2026-07-21 16:45,This is a great car!,106500,Petrol,4,450,00095.jpg,550e8400-e29b-41d4-a725-446655440008
+bob,Porsche,911 Carrera 4S,100000,1999,2981 cc,automatic,2026-07-22 16:45,This is a great car!,113300,Petrol,4,528,00096.jpg,550e8400-e29b-41d4-a725-446655440009
+bob,ROLLS ROYCE ,GHOST,100000,1999,"6,592 cc",automatic,2026-07-23 16:45,This is a great car!,332000,Petrol,5,850,00097.jpg,550e8400-e29b-41d4-a726-446655440000
+bob,Tesla,Model 3,100000,1999,60 kWh,automatic,2026-07-24 16:45,This is a great car!,40240,Electric,5,420,00098.jpg,550e8400-e29b-41d4-a726-446655440001
+bob,Tesla,Model 3 Performance,100000,1999,82 kWh,automatic,2026-07-25 16:45,This is a great car!,53240,Electric,5,660,00099.jpg,550e8400-e29b-41d4-a726-446655440002
+bob,Tesla,Model X,100000,1999,100 kWh,automatic,2026-07-26 16:45,This is a great car!,98490,Electric,7,967,00100.jpg,550e8400-e29b-41d4-a726-446655440003
+bob,Tesla,Model X Plaid,100000,1999,100 kWh,automatic,2026-07-27 16:45,This is a great car!,113490,Electric,6,1400,00101.jpg,550e8400-e29b-41d4-a726-446655440004
+bob,Tesla,Model Y,100000,1999,75 kWh,automatic,2026-07-28 16:45,This is a great car!,47490,Electric,5,498,00102.jpg,550e8400-e29b-41d4-a726-446655440005
+bob,TOYOTA,GR SUPRA,100000,2000,2998 cc,automatic,2026-07-29 16:45,This is a great car!,53900,Petrol,2,500,00103.jpg,550e8400-e29b-41d4-a726-446655440006
+bob,TOYOTA,TOYOTA 86,100000,2000,1998 cc,automatic,2026-07-30 16:45,This is a great car!,27000,Petrol,4,205,00104.jpg,550e8400-e29b-41d4-a726-446655440007
+bob,TOYOTA,TOYOTA  GR86,100000,2000,2387 cc,automatic,2026-07-31 16:45,This is a great car!,30000,Petrol,4,250,00105.jpg,550e8400-e29b-41d4-a726-446655440008
+bob,TOYOTA,TOYOTA LAND CRUISER,100000,2000,5663 cc,automatic,2026-08-01 16:45,This is a great car!,85000,Diesel,7,500,00106.jpg,550e8400-e29b-41d4-a726-446655440009
+bob,TOYOTA,TACOMA,100000,2000,2694 cc,automatic,2026-08-02 16:45,This is a great car!,26400,Petrol,5,400,00107.jpg,550e8400-e29b-41d4-a727-446655440000
+bob,TOYOTA,TUNDRA,100000,2000,5663 cc,automatic,2026-08-03 16:45,This is a great car!,39900,Petrol,5,650,00108.jpg,550e8400-e29b-41d4-a727-446655440001
+bob,TOYOTA,TUNDRA HYBRID,100000,2000,3456 cc,automatic,2026-08-04 16:45,This is a great car!,43400,Hybrid,5,650,00109.jpg,550e8400-e29b-41d4-a727-446655440002
+bob,TOYOTA,YARIS,100000,2000,1496 cc,automatic,2026-08-05 16:45,This is a great car!,18400,Petrol,5,150,00110.jpg,550e8400-e29b-41d4-a727-446655440003
+bob,TOYOTA,AYGO X,100000,2000,998 cc,automatic,2026-08-06 16:45,This is a great car!,18000,Petrol,4,93,00111.jpg,550e8400-e29b-41d4-a727-446655440004
+bob,TOYOTA,HILUX REVO ROCCO,100000,2000,2755 cc,automatic,2026-08-07 16:45,This is a great car!,50000,Diesel,5,500,00112.jpg,550e8400-e29b-41d4-a727-446655440005
+bob,Toyota,RAV4 (6th Gen),100000,2000,2487 cc,automatic,2026-08-08 16:45,This is a great car!,50000,Petrol,5,400,00113.jpg,550e8400-e29b-41d4-a727-446655440006
+bob,Volkswagen,Golf,100000,2000,1498 cc,automatic,2026-08-09 16:45,This is a great car!,23000,Petrol,5,250,00114.jpg,550e8400-e29b-41d4-a727-446655440007
+bob,Volkswagen,Passat,100000,2000,1984 cc,automatic,2026-08-10 16:45,This is a great car!,25000,Petrol,5,250,00115.jpg,550e8400-e29b-41d4-a727-446655440008
+bob,Volkswagen,Tiguan,100000,2000,1984 cc,automatic,2026-08-11 16:45,This is a great car!,28505,Petrol,7,300,00116.jpg,550e8400-e29b-41d4-a727-446655440009
+bob,Volkswagen,Jetta,100000,2000,1498 cc,automatic,2026-08-12 16:45,This is a great car!,21995,Petrol,5,250,00117.jpg,550e8400-e29b-41d4-a728-446655440000
+bob,VOLVO,S90,100000,2000,1969 cc,automatic,2026-08-13 16:45,This is a great car!,60000,Petrol,5,400,00118.jpg,550e8400-e29b-41d4-a728-446655440001

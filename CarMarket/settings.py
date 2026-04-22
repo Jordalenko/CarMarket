@@ -12,10 +12,10 @@ https://docs.djangoproject.com/en/4.2/ref/settings/
 
 import os
 from pathlib import Path
-import os
 import dj_database_url
-if os.path.isfile('env.py'):
-    import env
+
+if os.path.isfile("env.py"):
+    import env  # noqa: F401
 
 # Build paths inside the project like this: BASE_DIR / 'subdir'.
 BASE_DIR = Path(__file__).resolve().parent.parent
@@ -27,8 +27,8 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 # SECURITY WARNING: keep the secret key used in production secret!
 
 SECRET_KEY = (
-    'django-insecure-xv$t2u+yq5tuoz0ou8wdc$0d%u0xua+x44f&hj$^y5j&'
-    'vz(elq'
+    "django-insecure-xv$t2u+yq5tuoz0ou8wdc$0d%u0xua+x44f&hj$^y5j&"
+    "vz(elq"
 )
 
 # SECRET_KEY = os.environ.get("SECRET_KEY")
@@ -37,9 +37,12 @@ SECRET_KEY = (
 DEBUG = True
 
 ALLOWED_HOSTS = [
-    'https://car-market-9069020e42dd.herokuapp.com/'
+    'car-market-9069020e42dd.herokuapp.com',
     '.herokuapp.com',
-    '127.0.0.1'
+    '127.0.0.1',
+    'localhost',
+    'prior-essay-getup.ngrok-free.dev',
+    '.ngrok-free.dev',
 ]
 
 
@@ -52,7 +55,9 @@ INSTALLED_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
-    'cloudinary_storage',
+
+    # 'cloudinary_storage',
+
     'django.contrib.sites',
     'allauth',
     'allauth.account',
@@ -86,14 +91,15 @@ TEMPLATES = [
         'OPTIONS': {
             'context_processors': [
                 'django.template.context_processors.debug',
-                # required by allauth
-                'django.template.context_processors.request',
+                'django.template.context_processors.request', # required by allauth
                 'django.contrib.auth.context_processors.auth',
                 'django.contrib.messages.context_processors.messages',
             ],
         },
     },
 ]
+
+WSGI_APPLICATION = "CarMarket.wsgi.application"
 
 AUTHENTICATION_BACKENDS = [
     # Needed to login by username in Django admin, regardless of `allauth`

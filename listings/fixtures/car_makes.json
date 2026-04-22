@@ -1,0 +1,23 @@
+[
+  {
+    "model": "listings.carmake",
+    "pk": 1,
+    "fields": {
+      "name": "Toyota"
+    }
+  },
+  {
+    "model": "listings.carmake",
+    "pk": 2,
+    "fields": {
+      "name": "Honda"
+    }
+  },
+  {
+    "model": "listings.carmake",
+    "pk": 3,
+    "fields": {
+      "name": "BMW"
+    }
+  }
+]

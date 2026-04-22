@@ -1,0 +1,42 @@
+[
+  {
+    "model": "listings.carmodel",
+    "pk": 1,
+    "fields": {
+      "name": "Corolla",
+      "car_make": 1
+    }
+  },
+  {
+    "model": "listings.carmodel",
+    "pk": 2,
+    "fields": {
+      "name": "Camry",
+      "car_make": 1
+    }
+  },
+  {
+    "model": "listings.carmodel",
+    "pk": 3,
+    "fields": {
+      "name": "Civic",
+      "car_make": 2
+    }
+  },
+  {
+    "model": "listings.carmodel",
+    "pk": 4,
+    "fields": {
+      "name": "Accord",
+      "car_make": 2
+    }
+  },
+  {
+    "model": "listings.carmodel",
+    "pk": 5,
+    "fields": {
+      "name": "X5",
+      "car_make": 3
+    }
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "model": "users.profile",
+    "pk": "d36551a5-b292-4674-b25f-2385ed2f3f0a",
+    "fields": {
+      "user": null,
+      "username": "alice",
+      "name": "Alice",
+      "email": "alice@example.com",
+      "password": "",
+      "phone": "0700000001",
+      "address": "1 Example Street",
+      "town": "Nairobi",
+      "county": "Nairobi",
+      "postcode": "00100",
+      "profile_image": "profiles/user1.jpg",
+      "created_at": "2026-01-01T10:00:00Z"
+    }
+  },
+  {
+    "model": "users.profile",
+    "pk": "d6848c61-ce3a-474d-8add-07b2274a76a8",
+    "fields": {
+      "user": null,
+      "username": "bob",
+      "name": "Bob",
+      "email": "bob@example.com",
+      "password": "",
+      "phone": "0700000002",
+      "address": "2 Example Street",
+      "town": "Mombasa",
+      "county": "Mombasa",
+      "postcode": "80100",
+      "profile_image": "profiles/user2.jpg",
+      "created_at": "2026-01-01T10:00:00Z"
+    }
+  },
+  {
+    "model": "users.profile",
+    "pk": "00c81dcd-90c2-40a9-9aa2-cc4fcc17d7cb",
+    "fields": {
+      "user": null,
+      "username": "user3",
+      "name": "User Three",
+      "email": "user3@example.com",
+      "password": "",
+      "phone": "0700000003",
+      "address": "3 Example Street",
+      "town": "Kisumu",
+      "county": "Kisumu",
+      "postcode": "40100",
+      "profile_image": "profiles/user3.jpg",
+      "created_at": "2026-01-01T10:00:00Z"
+    }
+  },
+  {
+    "model": "users.profile",
+    "pk": "491935e4-006c-4c0a-94b7-aae6f07c1cfc",
+    "fields": {
+      "user": null,
+      "username": "user4",
+      "name": "User Four",
+      "email": "user4@example.com",
+      "password": "",
+      "phone": "0700000004",
+      "address": "4 Example Street",
+      "town": "Nakuru",
+      "county": "Nakuru",
+      "postcode": "20100",
+      "profile_image": "profiles/user4.jpg",
+      "created_at": "2026-01-01T10:00:00Z"
+    }
+  },
+  {
+    "model": "users.profile",
+    "pk": "8c65936e-01fe-4540-a7cb-7c4d23c6177e",
+    "fields": {
+      "user": null,
+      "username": "user5",
+      "name": "User Five",
+      "email": "user5@example.com",
+      "password": "",
+      "phone": "0700000005",
+      "address": "5 Example Street",
+      "town": "Eldoret",
+      "county": "Uasin Gishu",
+      "postcode": "30100",
+      "profile_image": "profiles/user5.jpg",
+      "created_at": "2026-01-01T10:00:00Z"
+    }
+  }
+]
