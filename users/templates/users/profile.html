@@ -1,0 +1,117 @@
+{% extends 'base.html' %}
+{% load humanize %}
+{% load static %}
+
+{% block title %}
+My Profile
+{% endblock title %}
+
+{% block content %}
+<section class="profile-page py-5">
+    <div class="container">
+
+        <div class="row justify-content-center align-items-start">
+
+            <!-- Sidebar / Top Nav -->
+            <div class="col-12 col-lg-2 mb-4 mb-lg-0">
+                <div class="profile-nav text-center text-lg-start">
+                    <a href="{% url 'home' %}" class="profile-nav-link d-block">Home</a>
+                    <a href="{% url 'profile' %}" class="profile-nav-link d-block">Profile</a>
+                    <a href="{% url 'listings_page' %}" class="profile-nav-link d-block">Search</a>
+                </div>
+            </div>
+
+            <!-- Profile Card -->
+            <div class="col-12 col-md-10 col-lg-7">
+                <div class="profile-card mx-auto">
+
+                    <div class="profile-image-wrap">
+                        {% if profile.profile_image %}
+                            <img
+                                src="{{ profile.profile_image }}"
+                                alt="{{ profile.name }}"
+                                class="profile-image"
+                            >
+                        {% else %}
+                            <img
+                                src="{% static 'images/default-profile.png' %}"
+                                alt="Default profile"
+                                class="profile-image"
+                            >
+                        {% endif %}
+                    </div>
+
+                    <div class="profile-info-block">
+                        <div class="profile-info-row">
+                            <div class="profile-label">Name:</div>
+                            <div class="profile-value">
+                                {% if profile.name %}
+                                    {{ profile.name }}
+                                {% else %}
+                                    --
+                                {% endif %}
+                            </div>
+                        </div>
+
+                        <div class="profile-info-row">
+                            <div class="profile-label">Email:</div>
+                            <div class="profile-value">
+                                {% if profile.email %}
+                                    {{ profile.email }}
+                                {% else %}
+                                    --
+                                {% endif %}
+                            </div>
+                        </div>
+
+                        <div class="profile-info-row">
+                            <div class="profile-label">About Me:</div>
+                            <div class="profile-value">
+                                {% if profile.about_me %}
+                                    {{ profile.about_me }}
+                                {% else %}
+                                    --
+                                {% endif %}
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="profile-extra-text">
+                        <p>
+                            {% if profile.phone %}
+                                Phone: {{ profile.phone }}
+                            {% endif %}
+                            {% if profile.phone and profile.town or profile.county %}
+                                <br>
+                            {% endif %}
+                            {% if profile.town %}
+                                {{ profile.town }}{% if profile.county %}, {% endif %}
+                            {% endif %}
+                            {% if profile.county %}
+                                {{ profile.county }}
+                            {% endif %}
+                        </p>
+                    </div>
+
+                    <div class="profile-actions">
+                        <a href="{% url 'update-profile' %}" class="btn btn-blue text-white profile-btn">
+                            Edit Profile
+                        </a>
+                        <form method="post" action="{% url 'delete-profile' %}" class="d-inline">
+                            {% csrf_token %}
+                            <button type="submit" class="btn btn-danger text-white profile-btn" onclick="return confirm('Are you sure you want to delete your account?');">
+                                Delete Profile
+                            </button>
+                        </form>
+                        <a href="{% url 'logout' %}" class="btn btn-dark text-white profile-btn">
+                            Logout
+                        </a>
+                    </div>
+
+                </div>
+            </div>
+
+        </div>
+    </div>
+</section>
+{% endblock content %}

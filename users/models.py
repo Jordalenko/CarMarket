@@ -19,4 +19,3 @@ class Profile(models.Model):
 
     def __str__(self):
         return self.name or self.username or str(self.id)
-    

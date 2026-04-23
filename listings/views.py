@@ -25,6 +25,7 @@
 import json
 from typing import Any, Dict, Optional, Tuple
 
+from django.contrib.auth.decorators import login_required
 from django.core.paginator import Paginator
 from django.http import JsonResponse
 from django.shortcuts import render
@@ -196,14 +197,26 @@ def listings_page(request):
 
 
 @require_http_methods(["GET", "POST"])
+@login_required(login_url="login")
 def create_listing_form(request):
+    profile, _ = Profile.objects.get_or_create(
+        user=request.user,
+        defaults={
+            "username": request.user.username,
+            "email": request.user.email,
+            "name": request.user.get_full_name(),
+        },
+    )
+
     if request.method == "POST":
-        payload, status = _build_listing(request.POST.dict())
+        data = request.POST.dict()
+        data["owner_username"] = profile.username or request.user.username
+        payload, status = _build_listing(data)
         context = {
             "result": payload,
             "is_success": status == 201,
             "status_code": status,
-            "form_data": request.POST,
+            "form_data": data,
         }
         return render(
             request,
@@ -212,7 +225,15 @@ def create_listing_form(request):
             status=status,
         )
 
-    return render(request, "create_listing_form.html", {"form_data": {}})
+    return render(
+        request,
+        "create_listing_form.html",
+        {
+            "form_data": {
+                "owner_username": profile.username or request.user.username,
+            }
+        },
+    )
 
 
 @csrf_exempt

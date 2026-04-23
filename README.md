@@ -262,13 +262,6 @@ The profile page is essentially a large card that includes the user's profile im
 This page shows all of the listings that were created by this user. The cards have additional buttons for editing and deleting listings which allows each user to easily manage their listings. Maximum of 6 listings per page display and then pagination will appear at the bottom to help the user navigate through their listings.
 
 
-#### My Favourites
-This page shows all the listings that have been saved to favourites by this user. The cards have buttons to remove from favourites or view the listing. Maximum of 6 listings per page display and then pagination will appear at the bottom to help the user navigate through their favourites.
-
-
-#### Remove from Favourites
-The user can easily remove a listing from favourites by pressing the remove button on the card listing from their favourites page. The user is then redirected to the confirmation page with a warning message and two buttons- one to go back and one to remove the listing. Once clicked the listing is removed. 
-
 #### Edit Listing
 This page displays the same form as create a listing, with already populated fields with the current details of the listing. The user can amend all of the details on the page and upload new images or just save the form as it is. Once submitted the user is redirected to my listings page.
 
@@ -289,19 +282,16 @@ If the user visits a listing that is not theirs there is a heart that they can c
 
 
 Further down there is a card with the seller's details, consisting of their image, name, email, phone, and location if added. Their image is a link to their user account page. Below that is an email seller button which when clicked opens a modal with a form. The form is prepopulated with the user's details if they are authenticated. Once submitted, an email is sent to the listing's owner with the details within the form. 
-![contact form](./assets/readme-images/features/contact-form.PNG)
-![contact email](./assets/readme-images/features/contact-email.PNG)
-
-#### Flash Messages
-Flash messages were user every time the user performs CRUD operation, sign in, and sign out.
+![contact form](./assets/readme-images/features/)
+![contact email](./assets/readme-images/features/)
 
 
 #### User account and User account listings
 This page renders other user's profiles. It has a very similar layout to my profile page with a few small changes. There are no favourites links in the sidebar menu. The profile page does not have edit and delete buttons as users should only be able to amend their profile pages. The link for my listings shows all of the listings this user has created. The cards display with a view button only.
 
-![user account](./assets/readme-images/features/user-account.PNG)
+![user account](./assets/readme-images/features/)
 
-![user account listings](./assets/readme-images/features/user-account-listings.PNG)
+![user account listings](./assets/readme-images/features/)
 
 ### Sign In page
 Consist of a form with username and password. Below it has a link to reset password, followed by a sign in button which submits the form. The register link is position below that.
@@ -340,12 +330,12 @@ Email with instructions
 ### Enter a new password
 When the user follows the link from the email, they are sent to a page to set up their new password.
 
-![pass reset new pass](./assets/readme-images/features/pass-reset-new-pass.PNG)
+![pass reset new pass](./assets/readme-images/features/)
 
 ### Password Reset Completed
 Once the form is submitted the user is redirected to a page advising them the password reset was completed followed by a log-in button.
 
-![pass reset completed](./assets/readme-images/features/pass-reset-completed.PNG)
+![pass reset completed](./assets/readme-images/features/)
 
 ### Error Pages
 - 404
@@ -358,10 +348,10 @@ Once the form is submitted the user is redirected to a page advising them the pa
 
 
 ## Future Features
-1. I would like to include an API that can check the reg plate of a vehicle and get all the data for that vehicle. This way the users won't have to fill a very long form and it will improve the overall user experience.
-2. I would like to update the database with car models for the Irish market. The models currently loaded are for the USA market.
-3. I would like to expand the application by adding inbox feature and the option for the users to send and reply to messages.
-4. Each listing will have multiple images
+1. I would like to add a single-listing.html page to the listings app.
+2. Each listing will have unique images
+3. I would like to expand the application by adding email features and the option for the users to send and reply to messages.
+4. 
 
 ## Testing
 Testing documentation can be found [here.](./TESTING.md)

@@ -71,7 +71,13 @@
                 aria-expanded="false">
                 <div class="text-center">
                   <div><i class="fas fa-user fa-lg"></i></div>
-                  <p class="my-0">My Account</p>
+                  <p class="my-0">
+                    {% if request.user.is_authenticated %}
+                      {{ request.user.first_name|default:request.user.username }}
+                    {% else %}
+                      My Account
+                    {% endif %}
+                  </p>
                 </div>
               </a>
               <div class="dropdown-menu border-0" aria-labelledby="user-options">
@@ -79,11 +85,11 @@
                 {% if request.user.is_superuser %}
                 <a href="" class="dropdown-item">Car Management</a>
                 {% endif %}
-                <a href="" class="dropdown-item">My Profile</a>
-                <a href="{% url 'account_logout' %}" class="dropdown-item">Logout</a>
+                <a href="{% url 'profile' %}" class="dropdown-item">My Profile</a>
+                <a href="{% url 'logout' %}" class="dropdown-item">Logout</a>
                 {% else %}
-                <a href="{% url 'account_signup' %}" class="dropdown-item">Register</a>
-                <a href="{% url 'account_login' %}" class="dropdown-item">Login</a>
+                <a href="{% url 'register' %}" class="dropdown-item">Sign Up</a>
+                <a href="{% url 'login' %}" class="dropdown-item">Login</a>
                 {% endif %}
               </div>
             </li>
