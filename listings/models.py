@@ -34,6 +34,11 @@ class Listing(models.Model):
     seats = models.IntegerField(null=True, blank=True)
     torque = models.IntegerField(null=True, blank=True)
     listing_image_1 = models.CharField(max_length=255, blank=True, default="listings/default-listing-img.jpg")
+    listing_image_2 = models.CharField(max_length=255, blank=True, default="listings/default-listing-img.jpg")
+    listing_image_3 = models.CharField(max_length=255, blank=True, default="listings/default-listing-img.jpg")
+    listing_image_4 = models.CharField(max_length=255, blank=True, default="listings/default-listing-img.jpg")
+    listing_image_5 = models.CharField(max_length=255, blank=True, default="listings/default-listing-img.jpg")
+    listing_image_6 = models.CharField(max_length=255, blank=True, default="listings/default-listing-img.jpg")
 
     def __str__(self):
         return f"{self.car_make} {self.car_model}"

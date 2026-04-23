@@ -1,0 +1,39 @@
+<form action="{% url 'listings_page' %}" method="get" class="search-panel">
+  <div class="search-grid">
+    <div class="search-item">
+      <label for="car_make" class="sr-only">Car make</label>
+      <input id="car_make" name="car_make" type="text" placeholder="Car Make" value="{{ values.car_make|default:'' }}">
+    </div>
+    <div class="search-item">
+      <label for="car_model" class="sr-only">Car type</label>
+      <input id="car_model" name="car_model" type="text" placeholder="Car Type" value="{{ values.car_model|default:'' }}">
+    </div>
+    <div class="search-item">
+      <label for="fuel_type" class="sr-only">Fuel type</label>
+      <select id="fuel_type" name="fuel_type">
+        <option value="">Fuel Type</option>
+        {% for fuel in fuel_types %}
+          <option value="{{ fuel }}" {% if values.fuel_type == fuel %}selected{% endif %}>{{ fuel }}</option>
+        {% endfor %}
+      </select>
+    </div>
+    <div class="search-item">
+      <label for="year" class="sr-only">Year</label>
+      <input id="year" name="year" type="number" placeholder="Year" value="{{ values.year|default:'' }}">
+    </div>
+    <div class="search-item">
+      <label for="mileage" class="sr-only">Mileage</label>
+      <input id="mileage" name="mileage" type="number" placeholder="Mileage" value="{{ values.mileage|default:'' }}">
+    </div>
+    <div class="search-item">
+      <label for="price" class="sr-only">Price</label>
+      <input id="price" name="price" type="number" placeholder="Price" value="{{ values.price|default:'' }}">
+    </div>
+    <div class="search-item search-actions">
+      <button type="submit">Search</button>
+    </div>
+    <div class="search-item search-actions">
+      <a href="{% url 'listings_page' %}">Reset</a>
+    </div>
+  </div>
+</form>

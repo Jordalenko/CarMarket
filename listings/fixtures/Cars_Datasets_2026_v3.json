@@ -16,7 +16,12 @@
       "fuel_type": "Petrol",
       "seats": 2,
       "torque": 666,
-      "listing_image_1": "00001.jpg"
+      "listing_image_1": "Placeholder_00001.jpg",
+      "listing_image_2": "Placeholder_00002.jpg",
+      "listing_image_3": "Placeholder_00003.jpg",
+      "listing_image_4": "Placeholder_00004.jpg",
+      "listing_image_5": "Placeholder_00005.jpg",
+      "listing_image_6": "Placeholder_00006.jpg"
     }
   },
   {
@@ -36,7 +41,12 @@
       "fuel_type": "Petrol",
       "seats": 5,
       "torque": 362,
-      "listing_image_1": "00002.jpg"
+      "listing_image_1": "Placeholder_00001.jpg",
+      "listing_image_2": "Placeholder_00002.jpg",
+      "listing_image_3": "Placeholder_00003.jpg",
+      "listing_image_4": "Placeholder_00004.jpg",
+      "listing_image_5": "Placeholder_00005.jpg",
+      "listing_image_6": "Placeholder_00006.jpg"
     }
   },
   {
@@ -56,7 +66,12 @@
       "fuel_type": "Petrol",
       "seats": 7,
       "torque": 362,
-      "listing_image_1": "00003.jpg"
+      "listing_image_1": "Placeholder_00001.jpg",
+      "listing_image_2": "Placeholder_00002.jpg",
+      "listing_image_3": "Placeholder_00003.jpg",
+      "listing_image_4": "Placeholder_00004.jpg",
+      "listing_image_5": "Placeholder_00005.jpg",
+      "listing_image_6": "Placeholder_00006.jpg"
     }
   },
   {
@@ -76,7 +91,12 @@
       "fuel_type": "Petrol",
       "seats": 5,
       "torque": 400,
-      "listing_image_1": "00004.jpg"
+      "listing_image_1": "Placeholder_00001.jpg",
+      "listing_image_2": "Placeholder_00002.jpg",
+      "listing_image_3": "Placeholder_00003.jpg",
+      "listing_image_4": "Placeholder_00004.jpg",
+      "listing_image_5": "Placeholder_00005.jpg",
+      "listing_image_6": "Placeholder_00006.jpg"
     }
   },
   {
@@ -96,7 +116,12 @@
       "fuel_type": "Petrol",
       "seats": 2,
       "torque": 821,
-      "listing_image_1": "00005.jpg"
+      "listing_image_1": "Placeholder_00001.jpg",
+      "listing_image_2": "Placeholder_00002.jpg",
+      "listing_image_3": "Placeholder_00003.jpg",
+      "listing_image_4": "Placeholder_00004.jpg",
+      "listing_image_5": "Placeholder_00005.jpg",
+      "listing_image_6": "Placeholder_00006.jpg"
     }
   },
   {
@@ -116,7 +141,12 @@
       "fuel_type": "Petrol",
       "seats": 2,
       "torque": 560,
-      "listing_image_1": "00006.jpg"
+      "listing_image_1": "Placeholder_00001.jpg",
+      "listing_image_2": "Placeholder_00002.jpg",
+      "listing_image_3": "Placeholder_00003.jpg",
+      "listing_image_4": "Placeholder_00004.jpg",
+      "listing_image_5": "Placeholder_00005.jpg",
+      "listing_image_6": "Placeholder_00006.jpg"
     }
   },
   {
@@ -136,7 +166,12 @@
       "fuel_type": "Petrol",
       "seats": 2,
       "torque": 560,
-      "listing_image_1": "00007.jpg"
+      "listing_image_1": "Placeholder_00001.jpg",
+      "listing_image_2": "Placeholder_00002.jpg",
+      "listing_image_3": "Placeholder_00003.jpg",
+      "listing_image_4": "Placeholder_00004.jpg",
+      "listing_image_5": "Placeholder_00005.jpg",
+      "listing_image_6": "Placeholder_00006.jpg"
     }
   },
   {
@@ -156,7 +191,12 @@
       "fuel_type": "Petrol",
       "seats": 2,
       "torque": 400,
-      "listing_image_1": "00008.jpg"
+      "listing_image_1": "Placeholder_00001.jpg",
+      "listing_image_2": "Placeholder_00002.jpg",
+      "listing_image_3": "Placeholder_00003.jpg",
+      "listing_image_4": "Placeholder_00004.jpg",
+      "listing_image_5": "Placeholder_00005.jpg",
+      "listing_image_6": "Placeholder_00006.jpg"
     }
   },
   {
@@ -176,7 +216,12 @@
       "fuel_type": "Petrol",
       "seats": 4,
       "torque": 900,
-      "listing_image_1": "00009.jpg"
+      "listing_image_1": "Placeholder_00001.jpg",
+      "listing_image_2": "Placeholder_00002.jpg",
+      "listing_image_3": "Placeholder_00003.jpg",
+      "listing_image_4": "Placeholder_00004.jpg",
+      "listing_image_5": "Placeholder_00005.jpg",
+      "listing_image_6": "Placeholder_00006.jpg"
     }
   },
   {
@@ -196,7 +241,12 @@
       "fuel_type": "Petrol",
       "seats": 2,
       "torque": 770,
-      "listing_image_1": "00010.jpg"
+      "listing_image_1": "Placeholder_00001.jpg",
+      "listing_image_2": "Placeholder_00002.jpg",
+      "listing_image_3": "Placeholder_00003.jpg",
+      "listing_image_4": "Placeholder_00004.jpg",
+      "listing_image_5": "Placeholder_00005.jpg",
+      "listing_image_6": "Placeholder_00006.jpg"
     }
   },
   {
@@ -216,7 +266,12 @@
       "fuel_type": "Petrol",
       "seats": 5,
       "torque": 750,
-      "listing_image_1": "00011.jpg"
+      "listing_image_1": "Placeholder_00001.jpg",
+      "listing_image_2": "Placeholder_00002.jpg",
+      "listing_image_3": "Placeholder_00003.jpg",
+      "listing_image_4": "Placeholder_00004.jpg",
+      "listing_image_5": "Placeholder_00005.jpg",
+      "listing_image_6": "Placeholder_00006.jpg"
     }
   },
   {
@@ -236,7 +291,12 @@
       "fuel_type": "Petrol",
       "seats": 4,
       "torque": 600,
-      "listing_image_1": "00012.jpg"
+      "listing_image_1": "Placeholder_00001.jpg",
+      "listing_image_2": "Placeholder_00002.jpg",
+      "listing_image_3": "Placeholder_00003.jpg",
+      "listing_image_4": "Placeholder_00004.jpg",
+      "listing_image_5": "Placeholder_00005.jpg",
+      "listing_image_6": "Placeholder_00006.jpg"
     }
   },
   {
@@ -256,7 +316,12 @@
       "fuel_type": "Petrol",
       "seats": 5,
       "torque": 650,
-      "listing_image_1": "00013.jpg"
+      "listing_image_1": "Placeholder_00001.jpg",
+      "listing_image_2": "Placeholder_00002.jpg",
+      "listing_image_3": "Placeholder_00003.jpg",
+      "listing_image_4": "Placeholder_00004.jpg",
+      "listing_image_5": "Placeholder_00005.jpg",
+      "listing_image_6": "Placeholder_00006.jpg"
     }
   },
   {
@@ -276,7 +341,12 @@
       "fuel_type": "Petrol",
       "seats": 2,
       "torque": 1600,
-      "listing_image_1": "00014.jpg"
+      "listing_image_1": "Placeholder_00001.jpg",
+      "listing_image_2": "Placeholder_00002.jpg",
+      "listing_image_3": "Placeholder_00003.jpg",
+      "listing_image_4": "Placeholder_00004.jpg",
+      "listing_image_5": "Placeholder_00005.jpg",
+      "listing_image_6": "Placeholder_00006.jpg"
     }
   },
   {
@@ -296,7 +366,12 @@
       "fuel_type": "Petrol",
       "seats": 2,
       "torque": 1600,
-      "listing_image_1": "00015.jpg"
+      "listing_image_1": "Placeholder_00001.jpg",
+      "listing_image_2": "Placeholder_00002.jpg",
+      "listing_image_3": "Placeholder_00003.jpg",
+      "listing_image_4": "Placeholder_00004.jpg",
+      "listing_image_5": "Placeholder_00005.jpg",
+      "listing_image_6": "Placeholder_00006.jpg"
     }
   },
   {
@@ -316,7 +391,12 @@
       "fuel_type": "Petrol",
       "seats": 5,
       "torque": 350,
-      "listing_image_1": "00016.jpg"
+      "listing_image_1": "Placeholder_00001.jpg",
+      "listing_image_2": "Placeholder_00002.jpg",
+      "listing_image_3": "Placeholder_00003.jpg",
+      "listing_image_4": "Placeholder_00004.jpg",
+      "listing_image_5": "Placeholder_00005.jpg",
+      "listing_image_6": "Placeholder_00006.jpg"
     }
   },
   {
@@ -336,7 +416,12 @@
       "fuel_type": "Petrol",
       "seats": 5,
       "torque": 500,
-      "listing_image_1": "00017.jpg"
+      "listing_image_1": "Placeholder_00001.jpg",
+      "listing_image_2": "Placeholder_00002.jpg",
+      "listing_image_3": "Placeholder_00003.jpg",
+      "listing_image_4": "Placeholder_00004.jpg",
+      "listing_image_5": "Placeholder_00005.jpg",
+      "listing_image_6": "Placeholder_00006.jpg"
     }
   },
   {
@@ -356,7 +441,12 @@
       "fuel_type": "Petrol",
       "seats": 5,
       "torque": 350,
-      "listing_image_1": "00018.jpg"
+      "listing_image_1": "Placeholder_00001.jpg",
+      "listing_image_2": "Placeholder_00002.jpg",
+      "listing_image_3": "Placeholder_00003.jpg",
+      "listing_image_4": "Placeholder_00004.jpg",
+      "listing_image_5": "Placeholder_00005.jpg",
+      "listing_image_6": "Placeholder_00006.jpg"
     }
   },
   {
@@ -376,7 +466,12 @@
       "fuel_type": "Petrol",
       "seats": 5,
       "torque": 550,
-      "listing_image_1": "00019.jpg"
+      "listing_image_1": "Placeholder_00001.jpg",
+      "listing_image_2": "Placeholder_00002.jpg",
+      "listing_image_3": "Placeholder_00003.jpg",
+      "listing_image_4": "Placeholder_00004.jpg",
+      "listing_image_5": "Placeholder_00005.jpg",
+      "listing_image_6": "Placeholder_00006.jpg"
     }
   },
   {
@@ -396,7 +491,12 @@
       "fuel_type": "Petrol",
       "seats": 6,
       "torque": 413,
-      "listing_image_1": "00020.jpg"
+      "listing_image_1": "Placeholder_00001.jpg",
+      "listing_image_2": "Placeholder_00002.jpg",
+      "listing_image_3": "Placeholder_00003.jpg",
+      "listing_image_4": "Placeholder_00004.jpg",
+      "listing_image_5": "Placeholder_00005.jpg",
+      "listing_image_6": "Placeholder_00006.jpg"
     }
   },
   {
@@ -416,7 +516,12 @@
       "fuel_type": "Diesel",
       "seats": 6,
       "torque": 1234,
-      "listing_image_1": "00021.jpg"
+      "listing_image_1": "Placeholder_00001.jpg",
+      "listing_image_2": "Placeholder_00002.jpg",
+      "listing_image_3": "Placeholder_00003.jpg",
+      "listing_image_4": "Placeholder_00004.jpg",
+      "listing_image_5": "Placeholder_00005.jpg",
+      "listing_image_6": "Placeholder_00006.jpg"
     }
   },
   {
@@ -436,7 +541,12 @@
       "fuel_type": "Petrol",
       "seats": 7,
       "torque": 519,
-      "listing_image_1": "00022.jpg"
+      "listing_image_1": "Placeholder_00001.jpg",
+      "listing_image_2": "Placeholder_00002.jpg",
+      "listing_image_3": "Placeholder_00003.jpg",
+      "listing_image_4": "Placeholder_00004.jpg",
+      "listing_image_5": "Placeholder_00005.jpg",
+      "listing_image_6": "Placeholder_00006.jpg"
     }
   },
   {
@@ -456,7 +566,12 @@
       "fuel_type": "Petrol",
       "seats": 8,
       "torque": 519,
-      "listing_image_1": "00023.jpg"
+      "listing_image_1": "Placeholder_00001.jpg",
+      "listing_image_2": "Placeholder_00002.jpg",
+      "listing_image_3": "Placeholder_00003.jpg",
+      "listing_image_4": "Placeholder_00004.jpg",
+      "listing_image_5": "Placeholder_00005.jpg",
+      "listing_image_6": "Placeholder_00006.jpg"
     }
   },
   {
@@ -476,7 +591,12 @@
       "fuel_type": "Electric",
       "seats": 5,
       "torque": 360,
-      "listing_image_1": "00024.jpg"
+      "listing_image_1": "Placeholder_00001.jpg",
+      "listing_image_2": "Placeholder_00002.jpg",
+      "listing_image_3": "Placeholder_00003.jpg",
+      "listing_image_4": "Placeholder_00004.jpg",
+      "listing_image_5": "Placeholder_00005.jpg",
+      "listing_image_6": "Placeholder_00006.jpg"
     }
   },
   {
@@ -496,7 +616,12 @@
       "fuel_type": "Petrol",
       "seats": 8,
       "torque": 519,
-      "listing_image_1": "00025.jpg"
+      "listing_image_1": "Placeholder_00001.jpg",
+      "listing_image_2": "Placeholder_00002.jpg",
+      "listing_image_3": "Placeholder_00003.jpg",
+      "listing_image_4": "Placeholder_00004.jpg",
+      "listing_image_5": "Placeholder_00005.jpg",
+      "listing_image_6": "Placeholder_00006.jpg"
     }
   },
   {
@@ -516,7 +641,12 @@
       "fuel_type": "Petrol",
       "seats": 8,
       "torque": 519,
-      "listing_image_1": "00026.jpg"
+      "listing_image_1": "Placeholder_00001.jpg",
+      "listing_image_2": "Placeholder_00002.jpg",
+      "listing_image_3": "Placeholder_00003.jpg",
+      "listing_image_4": "Placeholder_00004.jpg",
+      "listing_image_5": "Placeholder_00005.jpg",
+      "listing_image_6": "Placeholder_00006.jpg"
     }
   },
   {
@@ -536,7 +666,12 @@
       "fuel_type": "Petrol",
       "seats": 7,
       "torque": 519,
-      "listing_image_1": "00027.jpg"
+      "listing_image_1": "Placeholder_00001.jpg",
+      "listing_image_2": "Placeholder_00002.jpg",
+      "listing_image_3": "Placeholder_00003.jpg",
+      "listing_image_4": "Placeholder_00004.jpg",
+      "listing_image_5": "Placeholder_00005.jpg",
+      "listing_image_6": "Placeholder_00006.jpg"
     }
   },
   {
@@ -556,7 +691,12 @@
       "fuel_type": "Petrol",
       "seats": 7,
       "torque": 519,
-      "listing_image_1": "00028.jpg"
+      "listing_image_1": "Placeholder_00001.jpg",
+      "listing_image_2": "Placeholder_00002.jpg",
+      "listing_image_3": "Placeholder_00003.jpg",
+      "listing_image_4": "Placeholder_00004.jpg",
+      "listing_image_5": "Placeholder_00005.jpg",
+      "listing_image_6": "Placeholder_00006.jpg"
     }
   },
   {
@@ -576,7 +716,12 @@
       "fuel_type": "Petrol",
       "seats": 7,
       "torque": 624,
-      "listing_image_1": "00029.jpg"
+      "listing_image_1": "Placeholder_00001.jpg",
+      "listing_image_2": "Placeholder_00002.jpg",
+      "listing_image_3": "Placeholder_00003.jpg",
+      "listing_image_4": "Placeholder_00004.jpg",
+      "listing_image_5": "Placeholder_00005.jpg",
+      "listing_image_6": "Placeholder_00006.jpg"
     }
   },
   {
@@ -596,7 +741,12 @@
       "fuel_type": "Petrol",
       "seats": 7,
       "torque": 624,
-      "listing_image_1": "00030.jpg"
+      "listing_image_1": "Placeholder_00001.jpg",
+      "listing_image_2": "Placeholder_00002.jpg",
+      "listing_image_3": "Placeholder_00003.jpg",
+      "listing_image_4": "Placeholder_00004.jpg",
+      "listing_image_5": "Placeholder_00005.jpg",
+      "listing_image_6": "Placeholder_00006.jpg"
     }
   },
   {
@@ -616,7 +766,12 @@
       "fuel_type": "Petrol",
       "seats": 8,
       "torque": 519,
-      "listing_image_1": "00031.jpg"
+      "listing_image_1": "Placeholder_00001.jpg",
+      "listing_image_2": "Placeholder_00002.jpg",
+      "listing_image_3": "Placeholder_00003.jpg",
+      "listing_image_4": "Placeholder_00004.jpg",
+      "listing_image_5": "Placeholder_00005.jpg",
+      "listing_image_6": "Placeholder_00006.jpg"
     }
   },
   {
@@ -636,7 +791,12 @@
       "fuel_type": "Petrol",
       "seats": 7,
       "torque": 624,
-      "listing_image_1": "00032.jpg"
+      "listing_image_1": "Placeholder_00001.jpg",
+      "listing_image_2": "Placeholder_00002.jpg",
+      "listing_image_3": "Placeholder_00003.jpg",
+      "listing_image_4": "Placeholder_00004.jpg",
+      "listing_image_5": "Placeholder_00005.jpg",
+      "listing_image_6": "Placeholder_00006.jpg"
     }
   },
   {
@@ -656,7 +816,12 @@
       "fuel_type": "Petrol",
       "seats": 2,
       "torque": 800,
-      "listing_image_1": "00033.jpg"
+      "listing_image_1": "Placeholder_00001.jpg",
+      "listing_image_2": "Placeholder_00002.jpg",
+      "listing_image_3": "Placeholder_00003.jpg",
+      "listing_image_4": "Placeholder_00004.jpg",
+      "listing_image_5": "Placeholder_00005.jpg",
+      "listing_image_6": "Placeholder_00006.jpg"
     }
   },
   {
@@ -676,7 +841,12 @@
       "fuel_type": "Petrol",
       "seats": 2,
       "torque": 770,
-      "listing_image_1": "00034.jpg"
+      "listing_image_1": "Placeholder_00001.jpg",
+      "listing_image_2": "Placeholder_00002.jpg",
+      "listing_image_3": "Placeholder_00003.jpg",
+      "listing_image_4": "Placeholder_00004.jpg",
+      "listing_image_5": "Placeholder_00005.jpg",
+      "listing_image_6": "Placeholder_00006.jpg"
     }
   },
   {
@@ -696,7 +866,12 @@
       "fuel_type": "Petrol",
       "seats": 2,
       "torque": 718,
-      "listing_image_1": "00035.jpg"
+      "listing_image_1": "Placeholder_00001.jpg",
+      "listing_image_2": "Placeholder_00002.jpg",
+      "listing_image_3": "Placeholder_00003.jpg",
+      "listing_image_4": "Placeholder_00004.jpg",
+      "listing_image_5": "Placeholder_00005.jpg",
+      "listing_image_6": "Placeholder_00006.jpg"
     }
   },
   {
@@ -716,7 +891,12 @@
       "fuel_type": "Petrol",
       "seats": 4,
       "torque": 760,
-      "listing_image_1": "00036.jpg"
+      "listing_image_1": "Placeholder_00001.jpg",
+      "listing_image_2": "Placeholder_00002.jpg",
+      "listing_image_3": "Placeholder_00003.jpg",
+      "listing_image_4": "Placeholder_00004.jpg",
+      "listing_image_5": "Placeholder_00005.jpg",
+      "listing_image_6": "Placeholder_00006.jpg"
     }
   },
   {
@@ -736,7 +916,12 @@
       "fuel_type": "Petrol",
       "seats": 4,
       "torque": 570,
-      "listing_image_1": "00037.jpg"
+      "listing_image_1": "Placeholder_00001.jpg",
+      "listing_image_2": "Placeholder_00002.jpg",
+      "listing_image_3": "Placeholder_00003.jpg",
+      "listing_image_4": "Placeholder_00004.jpg",
+      "listing_image_5": "Placeholder_00005.jpg",
+      "listing_image_6": "Placeholder_00006.jpg"
     }
   },
   {
@@ -756,7 +941,12 @@
       "fuel_type": "Diesel",
       "seats": 5,
       "torque": 500,
-      "listing_image_1": "00038.jpg"
+      "listing_image_1": "Placeholder_00001.jpg",
+      "listing_image_2": "Placeholder_00002.jpg",
+      "listing_image_3": "Placeholder_00003.jpg",
+      "listing_image_4": "Placeholder_00004.jpg",
+      "listing_image_5": "Placeholder_00005.jpg",
+      "listing_image_6": "Placeholder_00006.jpg"
     }
   },
   {
@@ -776,7 +966,12 @@
       "fuel_type": "Hybrid",
       "seats": 5,
       "torque": 210,
-      "listing_image_1": "00039.jpg"
+      "listing_image_1": "Placeholder_00001.jpg",
+      "listing_image_2": "Placeholder_00002.jpg",
+      "listing_image_3": "Placeholder_00003.jpg",
+      "listing_image_4": "Placeholder_00004.jpg",
+      "listing_image_5": "Placeholder_00005.jpg",
+      "listing_image_6": "Placeholder_00006.jpg"
     }
   },
   {
@@ -796,7 +991,12 @@
       "fuel_type": "Petrol",
       "seats": 5,
       "torque": 542,
-      "listing_image_1": "00040.jpg"
+      "listing_image_1": "Placeholder_00001.jpg",
+      "listing_image_2": "Placeholder_00002.jpg",
+      "listing_image_3": "Placeholder_00003.jpg",
+      "listing_image_4": "Placeholder_00004.jpg",
+      "listing_image_5": "Placeholder_00005.jpg",
+      "listing_image_6": "Placeholder_00006.jpg"
     }
   },
   {
@@ -816,7 +1016,12 @@
       "fuel_type": "Petrol",
       "seats": 7,
       "torque": 563,
-      "listing_image_1": "00041.jpg"
+      "listing_image_1": "Placeholder_00001.jpg",
+      "listing_image_2": "Placeholder_00002.jpg",
+      "listing_image_3": "Placeholder_00003.jpg",
+      "listing_image_4": "Placeholder_00004.jpg",
+      "listing_image_5": "Placeholder_00005.jpg",
+      "listing_image_6": "Placeholder_00006.jpg"
     }
   },
   {
@@ -836,7 +1041,12 @@
       "fuel_type": "Petrol",
       "seats": 5,
       "torque": 275,
-      "listing_image_1": "00042.jpg"
+      "listing_image_1": "Placeholder_00001.jpg",
+      "listing_image_2": "Placeholder_00002.jpg",
+      "listing_image_3": "Placeholder_00003.jpg",
+      "listing_image_4": "Placeholder_00004.jpg",
+      "listing_image_5": "Placeholder_00005.jpg",
+      "listing_image_6": "Placeholder_00006.jpg"
     }
   },
   {
@@ -856,7 +1066,12 @@
       "fuel_type": "Petrol",
       "seats": 7,
       "torque": 350,
-      "listing_image_1": "00043.jpg"
+      "listing_image_1": "Placeholder_00001.jpg",
+      "listing_image_2": "Placeholder_00002.jpg",
+      "listing_image_3": "Placeholder_00003.jpg",
+      "listing_image_4": "Placeholder_00004.jpg",
+      "listing_image_5": "Placeholder_00005.jpg",
+      "listing_image_6": "Placeholder_00006.jpg"
     }
   },
   {
@@ -876,7 +1091,12 @@
       "fuel_type": "Petrol",
       "seats": 8,
       "torque": 519,
-      "listing_image_1": "00044.jpg"
+      "listing_image_1": "Placeholder_00001.jpg",
+      "listing_image_2": "Placeholder_00002.jpg",
+      "listing_image_3": "Placeholder_00003.jpg",
+      "listing_image_4": "Placeholder_00004.jpg",
+      "listing_image_5": "Placeholder_00005.jpg",
+      "listing_image_6": "Placeholder_00006.jpg"
     }
   },
   {
@@ -896,7 +1116,12 @@
       "fuel_type": "Petrol",
       "seats": 8,
       "torque": 624,
-      "listing_image_1": "00045.jpg"
+      "listing_image_1": "Placeholder_00001.jpg",
+      "listing_image_2": "Placeholder_00002.jpg",
+      "listing_image_3": "Placeholder_00003.jpg",
+      "listing_image_4": "Placeholder_00004.jpg",
+      "listing_image_5": "Placeholder_00005.jpg",
+      "listing_image_6": "Placeholder_00006.jpg"
     }
   },
   {
@@ -916,7 +1141,12 @@
       "fuel_type": "Petrol",
       "seats": 8,
       "torque": 360,
-      "listing_image_1": "00046.jpg"
+      "listing_image_1": "Placeholder_00001.jpg",
+      "listing_image_2": "Placeholder_00002.jpg",
+      "listing_image_3": "Placeholder_00003.jpg",
+      "listing_image_4": "Placeholder_00004.jpg",
+      "listing_image_5": "Placeholder_00005.jpg",
+      "listing_image_6": "Placeholder_00006.jpg"
     }
   },
   {
@@ -936,7 +1166,12 @@
       "fuel_type": "Petrol",
       "seats": 5,
       "torque": 300,
-      "listing_image_1": "00047.jpg"
+      "listing_image_1": "Placeholder_00001.jpg",
+      "listing_image_2": "Placeholder_00002.jpg",
+      "listing_image_3": "Placeholder_00003.jpg",
+      "listing_image_4": "Placeholder_00004.jpg",
+      "listing_image_5": "Placeholder_00005.jpg",
+      "listing_image_6": "Placeholder_00006.jpg"
     }
   },
   {
@@ -956,7 +1191,12 @@
       "fuel_type": "Petrol",
       "seats": 5,
       "torque": 145,
-      "listing_image_1": "00048.jpg"
+      "listing_image_1": "Placeholder_00001.jpg",
+      "listing_image_2": "Placeholder_00002.jpg",
+      "listing_image_3": "Placeholder_00003.jpg",
+      "listing_image_4": "Placeholder_00004.jpg",
+      "listing_image_5": "Placeholder_00005.jpg",
+      "listing_image_6": "Placeholder_00006.jpg"
     }
   },
   {
@@ -976,7 +1216,12 @@
       "fuel_type": "Petrol",
       "seats": 5,
       "torque": 400,
-      "listing_image_1": "00049.jpg"
+      "listing_image_1": "Placeholder_00001.jpg",
+      "listing_image_2": "Placeholder_00002.jpg",
+      "listing_image_3": "Placeholder_00003.jpg",
+      "listing_image_4": "Placeholder_00004.jpg",
+      "listing_image_5": "Placeholder_00005.jpg",
+      "listing_image_6": "Placeholder_00006.jpg"
     }
   },
   {
@@ -996,7 +1241,12 @@
       "fuel_type": "Petrol",
       "seats": 5,
       "torque": 120,
-      "listing_image_1": "00050.jpg"
+      "listing_image_1": "Placeholder_00001.jpg",
+      "listing_image_2": "Placeholder_00002.jpg",
+      "listing_image_3": "Placeholder_00003.jpg",
+      "listing_image_4": "Placeholder_00004.jpg",
+      "listing_image_5": "Placeholder_00005.jpg",
+      "listing_image_6": "Placeholder_00006.jpg"
     }
   },
   {
@@ -1016,7 +1266,12 @@
       "fuel_type": "Petrol",
       "seats": 5,
       "torque": 250,
-      "listing_image_1": "00051.jpg"
+      "listing_image_1": "Placeholder_00001.jpg",
+      "listing_image_2": "Placeholder_00002.jpg",
+      "listing_image_3": "Placeholder_00003.jpg",
+      "listing_image_4": "Placeholder_00004.jpg",
+      "listing_image_5": "Placeholder_00005.jpg",
+      "listing_image_6": "Placeholder_00006.jpg"
     }
   },
   {
@@ -1036,7 +1291,12 @@
       "fuel_type": "Petrol",
       "seats": 2,
       "torque": 600,
-      "listing_image_1": "00052.jpg"
+      "listing_image_1": "Placeholder_00001.jpg",
+      "listing_image_2": "Placeholder_00002.jpg",
+      "listing_image_3": "Placeholder_00003.jpg",
+      "listing_image_4": "Placeholder_00004.jpg",
+      "listing_image_5": "Placeholder_00005.jpg",
+      "listing_image_6": "Placeholder_00006.jpg"
     }
   },
   {
@@ -1056,7 +1316,12 @@
       "fuel_type": "Petrol",
       "seats": 5,
       "torque": 640,
-      "listing_image_1": "00053.jpg"
+      "listing_image_1": "Placeholder_00001.jpg",
+      "listing_image_2": "Placeholder_00002.jpg",
+      "listing_image_3": "Placeholder_00003.jpg",
+      "listing_image_4": "Placeholder_00004.jpg",
+      "listing_image_5": "Placeholder_00005.jpg",
+      "listing_image_6": "Placeholder_00006.jpg"
     }
   },
   {
@@ -1076,7 +1341,12 @@
       "fuel_type": "Petrol",
       "seats": 2,
       "torque": 400,
-      "listing_image_1": "00054.jpg"
+      "listing_image_1": "Placeholder_00001.jpg",
+      "listing_image_2": "Placeholder_00002.jpg",
+      "listing_image_3": "Placeholder_00003.jpg",
+      "listing_image_4": "Placeholder_00004.jpg",
+      "listing_image_5": "Placeholder_00005.jpg",
+      "listing_image_6": "Placeholder_00006.jpg"
     }
   },
   {
@@ -1096,7 +1366,12 @@
       "fuel_type": "Petrol",
       "seats": 4,
       "torque": 353,
-      "listing_image_1": "00055.jpg"
+      "listing_image_1": "Placeholder_00001.jpg",
+      "listing_image_2": "Placeholder_00002.jpg",
+      "listing_image_3": "Placeholder_00003.jpg",
+      "listing_image_4": "Placeholder_00004.jpg",
+      "listing_image_5": "Placeholder_00005.jpg",
+      "listing_image_6": "Placeholder_00006.jpg"
     }
   },
   {
@@ -1116,7 +1391,12 @@
       "fuel_type": "Petrol",
       "seats": 4,
       "torque": 400,
-      "listing_image_1": "00056.jpg"
+      "listing_image_1": "Placeholder_00001.jpg",
+      "listing_image_2": "Placeholder_00002.jpg",
+      "listing_image_3": "Placeholder_00003.jpg",
+      "listing_image_4": "Placeholder_00004.jpg",
+      "listing_image_5": "Placeholder_00005.jpg",
+      "listing_image_6": "Placeholder_00006.jpg"
     }
   },
   {
@@ -1136,7 +1416,12 @@
       "fuel_type": "Petrol",
       "seats": 5,
       "torque": 352,
-      "listing_image_1": "00057.jpg"
+      "listing_image_1": "Placeholder_00001.jpg",
+      "listing_image_2": "Placeholder_00002.jpg",
+      "listing_image_3": "Placeholder_00003.jpg",
+      "listing_image_4": "Placeholder_00004.jpg",
+      "listing_image_5": "Placeholder_00005.jpg",
+      "listing_image_6": "Placeholder_00006.jpg"
     }
   },
   {
@@ -1156,7 +1441,12 @@
       "fuel_type": "Hybrid",
       "seats": 5,
       "torque": 270,
-      "listing_image_1": "00058.jpg"
+      "listing_image_1": "Placeholder_00001.jpg",
+      "listing_image_2": "Placeholder_00002.jpg",
+      "listing_image_3": "Placeholder_00003.jpg",
+      "listing_image_4": "Placeholder_00004.jpg",
+      "listing_image_5": "Placeholder_00005.jpg",
+      "listing_image_6": "Placeholder_00006.jpg"
     }
   },
   {
@@ -1176,7 +1466,12 @@
       "fuel_type": "Electric",
       "seats": 5,
       "torque": 850,
-      "listing_image_1": "00059.jpg"
+      "listing_image_1": "Placeholder_00001.jpg",
+      "listing_image_2": "Placeholder_00002.jpg",
+      "listing_image_3": "Placeholder_00003.jpg",
+      "listing_image_4": "Placeholder_00004.jpg",
+      "listing_image_5": "Placeholder_00005.jpg",
+      "listing_image_6": "Placeholder_00006.jpg"
     }
   },
   {
@@ -1196,7 +1491,12 @@
       "fuel_type": "Petrol",
       "seats": 5,
       "torque": 400,
-      "listing_image_1": "00060.jpg"
+      "listing_image_1": "Placeholder_00001.jpg",
+      "listing_image_2": "Placeholder_00002.jpg",
+      "listing_image_3": "Placeholder_00003.jpg",
+      "listing_image_4": "Placeholder_00004.jpg",
+      "listing_image_5": "Placeholder_00005.jpg",
+      "listing_image_6": "Placeholder_00006.jpg"
     }
   },
   {
@@ -1216,7 +1516,12 @@
       "fuel_type": "Petrol",
       "seats": 2,
       "torque": 565,
-      "listing_image_1": "00061.jpg"
+      "listing_image_1": "Placeholder_00001.jpg",
+      "listing_image_2": "Placeholder_00002.jpg",
+      "listing_image_3": "Placeholder_00003.jpg",
+      "listing_image_4": "Placeholder_00004.jpg",
+      "listing_image_5": "Placeholder_00005.jpg",
+      "listing_image_6": "Placeholder_00006.jpg"
     }
   },
   {
@@ -1236,7 +1541,12 @@
       "fuel_type": "Petrol",
       "seats": 2,
       "torque": 720,
-      "listing_image_1": "00062.jpg"
+      "listing_image_1": "Placeholder_00001.jpg",
+      "listing_image_2": "Placeholder_00002.jpg",
+      "listing_image_3": "Placeholder_00003.jpg",
+      "listing_image_4": "Placeholder_00004.jpg",
+      "listing_image_5": "Placeholder_00005.jpg",
+      "listing_image_6": "Placeholder_00006.jpg"
     }
   },
   {
@@ -1256,7 +1566,12 @@
       "fuel_type": "Diesel",
       "seats": 7,
       "torque": 400,
-      "listing_image_1": "00063.jpg"
+      "listing_image_1": "Placeholder_00001.jpg",
+      "listing_image_2": "Placeholder_00002.jpg",
+      "listing_image_3": "Placeholder_00003.jpg",
+      "listing_image_4": "Placeholder_00004.jpg",
+      "listing_image_5": "Placeholder_00005.jpg",
+      "listing_image_6": "Placeholder_00006.jpg"
     }
   },
   {
@@ -1276,7 +1591,12 @@
       "fuel_type": "Diesel",
       "seats": 7,
       "torque": 280,
-      "listing_image_1": "00064.jpg"
+      "listing_image_1": "Placeholder_00001.jpg",
+      "listing_image_2": "Placeholder_00002.jpg",
+      "listing_image_3": "Placeholder_00003.jpg",
+      "listing_image_4": "Placeholder_00004.jpg",
+      "listing_image_5": "Placeholder_00005.jpg",
+      "listing_image_6": "Placeholder_00006.jpg"
     }
   },
   {
@@ -1296,7 +1616,12 @@
       "fuel_type": "Petrol",
       "seats": 5,
       "torque": 142,
-      "listing_image_1": "00065.jpg"
+      "listing_image_1": "Placeholder_00001.jpg",
+      "listing_image_2": "Placeholder_00002.jpg",
+      "listing_image_3": "Placeholder_00003.jpg",
+      "listing_image_4": "Placeholder_00004.jpg",
+      "listing_image_5": "Placeholder_00005.jpg",
+      "listing_image_6": "Placeholder_00006.jpg"
     }
   },
   {
@@ -1316,7 +1641,12 @@
       "fuel_type": "Petrol",
       "seats": 5,
       "torque": 213,
-      "listing_image_1": "00066.jpg"
+      "listing_image_1": "Placeholder_00001.jpg",
+      "listing_image_2": "Placeholder_00002.jpg",
+      "listing_image_3": "Placeholder_00003.jpg",
+      "listing_image_4": "Placeholder_00004.jpg",
+      "listing_image_5": "Placeholder_00005.jpg",
+      "listing_image_6": "Placeholder_00006.jpg"
     }
   },
   {
@@ -1336,7 +1666,12 @@
       "fuel_type": "Petrol",
       "seats": 5,
       "torque": 252,
-      "listing_image_1": "00067.jpg"
+      "listing_image_1": "Placeholder_00001.jpg",
+      "listing_image_2": "Placeholder_00002.jpg",
+      "listing_image_3": "Placeholder_00003.jpg",
+      "listing_image_4": "Placeholder_00004.jpg",
+      "listing_image_5": "Placeholder_00005.jpg",
+      "listing_image_6": "Placeholder_00006.jpg"
     }
   },
   {
@@ -1356,7 +1691,12 @@
       "fuel_type": "Petrol",
       "seats": 5,
       "torque": 420,
-      "listing_image_1": "00068.jpg"
+      "listing_image_1": "Placeholder_00001.jpg",
+      "listing_image_2": "Placeholder_00002.jpg",
+      "listing_image_3": "Placeholder_00003.jpg",
+      "listing_image_4": "Placeholder_00004.jpg",
+      "listing_image_5": "Placeholder_00005.jpg",
+      "listing_image_6": "Placeholder_00006.jpg"
     }
   },
   {
@@ -1376,7 +1716,12 @@
       "fuel_type": "Petrol",
       "seats": 5,
       "torque": 197,
-      "listing_image_1": "00069.jpg"
+      "listing_image_1": "Placeholder_00001.jpg",
+      "listing_image_2": "Placeholder_00002.jpg",
+      "listing_image_3": "Placeholder_00003.jpg",
+      "listing_image_4": "Placeholder_00004.jpg",
+      "listing_image_5": "Placeholder_00005.jpg",
+      "listing_image_6": "Placeholder_00006.jpg"
     }
   },
   {
@@ -1396,7 +1741,12 @@
       "fuel_type": "Petrol",
       "seats": 5,
       "torque": 620,
-      "listing_image_1": "00070.jpg"
+      "listing_image_1": "Placeholder_00001.jpg",
+      "listing_image_2": "Placeholder_00002.jpg",
+      "listing_image_3": "Placeholder_00003.jpg",
+      "listing_image_4": "Placeholder_00004.jpg",
+      "listing_image_5": "Placeholder_00005.jpg",
+      "listing_image_6": "Placeholder_00006.jpg"
     }
   },
   {
@@ -1416,7 +1766,12 @@
       "fuel_type": "Petrol",
       "seats": 5,
       "torque": 500,
-      "listing_image_1": "00071.jpg"
+      "listing_image_1": "Placeholder_00001.jpg",
+      "listing_image_2": "Placeholder_00002.jpg",
+      "listing_image_3": "Placeholder_00003.jpg",
+      "listing_image_4": "Placeholder_00004.jpg",
+      "listing_image_5": "Placeholder_00005.jpg",
+      "listing_image_6": "Placeholder_00006.jpg"
     }
   },
   {
@@ -1436,7 +1791,12 @@
       "fuel_type": "Electric",
       "seats": 5,
       "torque": 950,
-      "listing_image_1": "00072.jpg"
+      "listing_image_1": "Placeholder_00001.jpg",
+      "listing_image_2": "Placeholder_00002.jpg",
+      "listing_image_3": "Placeholder_00003.jpg",
+      "listing_image_4": "Placeholder_00004.jpg",
+      "listing_image_5": "Placeholder_00005.jpg",
+      "listing_image_6": "Placeholder_00006.jpg"
     }
   },
   {
@@ -1456,7 +1816,12 @@
       "fuel_type": "Petrol",
       "seats": 5,
       "torque": 1000,
-      "listing_image_1": "00073.jpg"
+      "listing_image_1": "Placeholder_00001.jpg",
+      "listing_image_2": "Placeholder_00002.jpg",
+      "listing_image_3": "Placeholder_00003.jpg",
+      "listing_image_4": "Placeholder_00004.jpg",
+      "listing_image_5": "Placeholder_00005.jpg",
+      "listing_image_6": "Placeholder_00006.jpg"
     }
   },
   {
@@ -1476,7 +1841,12 @@
       "fuel_type": "Petrol",
       "seats": 5,
       "torque": 100,
-      "listing_image_1": "00074.jpg"
+      "listing_image_1": "Placeholder_00001.jpg",
+      "listing_image_2": "Placeholder_00002.jpg",
+      "listing_image_3": "Placeholder_00003.jpg",
+      "listing_image_4": "Placeholder_00004.jpg",
+      "listing_image_5": "Placeholder_00005.jpg",
+      "listing_image_6": "Placeholder_00006.jpg"
     }
   },
   {
@@ -1496,7 +1866,12 @@
       "fuel_type": "Petrol",
       "seats": 5,
       "torque": 100,
-      "listing_image_1": "00075.jpg"
+      "listing_image_1": "Placeholder_00001.jpg",
+      "listing_image_2": "Placeholder_00002.jpg",
+      "listing_image_3": "Placeholder_00003.jpg",
+      "listing_image_4": "Placeholder_00004.jpg",
+      "listing_image_5": "Placeholder_00005.jpg",
+      "listing_image_6": "Placeholder_00006.jpg"
     }
   },
   {
@@ -1516,7 +1891,12 @@
       "fuel_type": "Petrol",
       "seats": 7,
       "torque": 245,
-      "listing_image_1": "00076.jpg"
+      "listing_image_1": "Placeholder_00001.jpg",
+      "listing_image_2": "Placeholder_00002.jpg",
+      "listing_image_3": "Placeholder_00003.jpg",
+      "listing_image_4": "Placeholder_00004.jpg",
+      "listing_image_5": "Placeholder_00005.jpg",
+      "listing_image_6": "Placeholder_00006.jpg"
     }
   },
   {
@@ -1536,7 +1916,12 @@
       "fuel_type": "Petrol",
       "seats": 5,
       "torque": 380,
-      "listing_image_1": "00077.jpg"
+      "listing_image_1": "Placeholder_00001.jpg",
+      "listing_image_2": "Placeholder_00002.jpg",
+      "listing_image_3": "Placeholder_00003.jpg",
+      "listing_image_4": "Placeholder_00004.jpg",
+      "listing_image_5": "Placeholder_00005.jpg",
+      "listing_image_6": "Placeholder_00006.jpg"
     }
   },
   {
@@ -1556,7 +1941,12 @@
       "fuel_type": "Petrol",
       "seats": 5,
       "torque": 354,
-      "listing_image_1": "00078.jpg"
+      "listing_image_1": "Placeholder_00001.jpg",
+      "listing_image_2": "Placeholder_00002.jpg",
+      "listing_image_3": "Placeholder_00003.jpg",
+      "listing_image_4": "Placeholder_00004.jpg",
+      "listing_image_5": "Placeholder_00005.jpg",
+      "listing_image_6": "Placeholder_00006.jpg"
     }
   },
   {
@@ -1576,7 +1966,12 @@
       "fuel_type": "Petrol",
       "seats": 5,
       "torque": 240,
-      "listing_image_1": "00079.jpg"
+      "listing_image_1": "Placeholder_00001.jpg",
+      "listing_image_2": "Placeholder_00002.jpg",
+      "listing_image_3": "Placeholder_00003.jpg",
+      "listing_image_4": "Placeholder_00004.jpg",
+      "listing_image_5": "Placeholder_00005.jpg",
+      "listing_image_6": "Placeholder_00006.jpg"
     }
   },
   {
@@ -1596,7 +1991,12 @@
       "fuel_type": "Petrol",
       "seats": 5,
       "torque": 270,
-      "listing_image_1": "00080.jpg"
+      "listing_image_1": "Placeholder_00001.jpg",
+      "listing_image_2": "Placeholder_00002.jpg",
+      "listing_image_3": "Placeholder_00003.jpg",
+      "listing_image_4": "Placeholder_00004.jpg",
+      "listing_image_5": "Placeholder_00005.jpg",
+      "listing_image_6": "Placeholder_00006.jpg"
     }
   },
   {
@@ -1616,7 +2016,12 @@
       "fuel_type": "Petrol",
       "seats": 7,
       "torque": 351,
-      "listing_image_1": "00081.jpg"
+      "listing_image_1": "Placeholder_00001.jpg",
+      "listing_image_2": "Placeholder_00002.jpg",
+      "listing_image_3": "Placeholder_00003.jpg",
+      "listing_image_4": "Placeholder_00004.jpg",
+      "listing_image_5": "Placeholder_00005.jpg",
+      "listing_image_6": "Placeholder_00006.jpg"
     }
   },
   {
@@ -1636,7 +2041,12 @@
       "fuel_type": "Petrol",
       "seats": 5,
       "torque": 360,
-      "listing_image_1": "00082.jpg"
+      "listing_image_1": "Placeholder_00001.jpg",
+      "listing_image_2": "Placeholder_00002.jpg",
+      "listing_image_3": "Placeholder_00003.jpg",
+      "listing_image_4": "Placeholder_00004.jpg",
+      "listing_image_5": "Placeholder_00005.jpg",
+      "listing_image_6": "Placeholder_00006.jpg"
     }
   },
   {
@@ -1656,7 +2066,12 @@
       "fuel_type": "Petrol",
       "seats": 5,
       "torque": 520,
-      "listing_image_1": "00083.jpg"
+      "listing_image_1": "Placeholder_00001.jpg",
+      "listing_image_2": "Placeholder_00002.jpg",
+      "listing_image_3": "Placeholder_00003.jpg",
+      "listing_image_4": "Placeholder_00004.jpg",
+      "listing_image_5": "Placeholder_00005.jpg",
+      "listing_image_6": "Placeholder_00006.jpg"
     }
   },
   {
@@ -1676,7 +2091,12 @@
       "fuel_type": "Petrol",
       "seats": 5,
       "torque": 520,
-      "listing_image_1": "00084.jpg"
+      "listing_image_1": "Placeholder_00001.jpg",
+      "listing_image_2": "Placeholder_00002.jpg",
+      "listing_image_3": "Placeholder_00003.jpg",
+      "listing_image_4": "Placeholder_00004.jpg",
+      "listing_image_5": "Placeholder_00005.jpg",
+      "listing_image_6": "Placeholder_00006.jpg"
     }
   },
   {
@@ -1696,7 +2116,12 @@
       "fuel_type": "Petrol",
       "seats": 5,
       "torque": 400,
-      "listing_image_1": "00085.jpg"
+      "listing_image_1": "Placeholder_00001.jpg",
+      "listing_image_2": "Placeholder_00002.jpg",
+      "listing_image_3": "Placeholder_00003.jpg",
+      "listing_image_4": "Placeholder_00004.jpg",
+      "listing_image_5": "Placeholder_00005.jpg",
+      "listing_image_6": "Placeholder_00006.jpg"
     }
   },
   {
@@ -1716,7 +2141,12 @@
       "fuel_type": "Petrol",
       "seats": 5,
       "torque": 205,
-      "listing_image_1": "00086.jpg"
+      "listing_image_1": "Placeholder_00001.jpg",
+      "listing_image_2": "Placeholder_00002.jpg",
+      "listing_image_3": "Placeholder_00003.jpg",
+      "listing_image_4": "Placeholder_00004.jpg",
+      "listing_image_5": "Placeholder_00005.jpg",
+      "listing_image_6": "Placeholder_00006.jpg"
     }
   },
   {
@@ -1736,7 +2166,12 @@
       "fuel_type": "Petrol",
       "seats": 5,
       "torque": 240,
-      "listing_image_1": "00087.jpg"
+      "listing_image_1": "Placeholder_00001.jpg",
+      "listing_image_2": "Placeholder_00002.jpg",
+      "listing_image_3": "Placeholder_00003.jpg",
+      "listing_image_4": "Placeholder_00004.jpg",
+      "listing_image_5": "Placeholder_00005.jpg",
+      "listing_image_6": "Placeholder_00006.jpg"
     }
   },
   {
@@ -1756,7 +2191,12 @@
       "fuel_type": "Petrol",
       "seats": 7,
       "torque": 240,
-      "listing_image_1": "00088.jpg"
+      "listing_image_1": "Placeholder_00001.jpg",
+      "listing_image_2": "Placeholder_00002.jpg",
+      "listing_image_3": "Placeholder_00003.jpg",
+      "listing_image_4": "Placeholder_00004.jpg",
+      "listing_image_5": "Placeholder_00005.jpg",
+      "listing_image_6": "Placeholder_00006.jpg"
     }
   },
   {
@@ -1776,7 +2216,12 @@
       "fuel_type": "Petrol",
       "seats": 5,
       "torque": 240,
-      "listing_image_1": "00089.jpg"
+      "listing_image_1": "Placeholder_00001.jpg",
+      "listing_image_2": "Placeholder_00002.jpg",
+      "listing_image_3": "Placeholder_00003.jpg",
+      "listing_image_4": "Placeholder_00004.jpg",
+      "listing_image_5": "Placeholder_00005.jpg",
+      "listing_image_6": "Placeholder_00006.jpg"
     }
   },
   {
@@ -1796,7 +2241,12 @@
       "fuel_type": "Petrol",
       "seats": 7,
       "torque": 240,
-      "listing_image_1": "00090.jpg"
+      "listing_image_1": "Placeholder_00001.jpg",
+      "listing_image_2": "Placeholder_00002.jpg",
+      "listing_image_3": "Placeholder_00003.jpg",
+      "listing_image_4": "Placeholder_00004.jpg",
+      "listing_image_5": "Placeholder_00005.jpg",
+      "listing_image_6": "Placeholder_00006.jpg"
     }
   },
   {
@@ -1816,7 +2266,12 @@
       "fuel_type": "Petrol",
       "seats": 5,
       "torque": 250,
-      "listing_image_1": "00091.jpg"
+      "listing_image_1": "Placeholder_00001.jpg",
+      "listing_image_2": "Placeholder_00002.jpg",
+      "listing_image_3": "Placeholder_00003.jpg",
+      "listing_image_4": "Placeholder_00004.jpg",
+      "listing_image_5": "Placeholder_00005.jpg",
+      "listing_image_6": "Placeholder_00006.jpg"
     }
   },
   {
@@ -1836,7 +2291,12 @@
       "fuel_type": "Petrol",
       "seats": 7,
       "torque": 250,
-      "listing_image_1": "00092.jpg"
+      "listing_image_1": "Placeholder_00001.jpg",
+      "listing_image_2": "Placeholder_00002.jpg",
+      "listing_image_3": "Placeholder_00003.jpg",
+      "listing_image_4": "Placeholder_00004.jpg",
+      "listing_image_5": "Placeholder_00005.jpg",
+      "listing_image_6": "Placeholder_00006.jpg"
     }
   },
   {
@@ -1856,7 +2316,12 @@
       "fuel_type": "Petrol",
       "seats": 4,
       "torque": 450,
-      "listing_image_1": "00093.jpg"
+      "listing_image_1": "Placeholder_00001.jpg",
+      "listing_image_2": "Placeholder_00002.jpg",
+      "listing_image_3": "Placeholder_00003.jpg",
+      "listing_image_4": "Placeholder_00004.jpg",
+      "listing_image_5": "Placeholder_00005.jpg",
+      "listing_image_6": "Placeholder_00006.jpg"
     }
   },
   {
@@ -1876,7 +2341,12 @@
       "fuel_type": "Petrol",
       "seats": 4,
       "torque": 528,
-      "listing_image_1": "00094.jpg"
+      "listing_image_1": "Placeholder_00001.jpg",
+      "listing_image_2": "Placeholder_00002.jpg",
+      "listing_image_3": "Placeholder_00003.jpg",
+      "listing_image_4": "Placeholder_00004.jpg",
+      "listing_image_5": "Placeholder_00005.jpg",
+      "listing_image_6": "Placeholder_00006.jpg"
     }
   },
   {
@@ -1896,7 +2366,12 @@
       "fuel_type": "Petrol",
       "seats": 4,
       "torque": 450,
-      "listing_image_1": "00095.jpg"
+      "listing_image_1": "Placeholder_00001.jpg",
+      "listing_image_2": "Placeholder_00002.jpg",
+      "listing_image_3": "Placeholder_00003.jpg",
+      "listing_image_4": "Placeholder_00004.jpg",
+      "listing_image_5": "Placeholder_00005.jpg",
+      "listing_image_6": "Placeholder_00006.jpg"
     }
   },
   {
@@ -1916,7 +2391,12 @@
       "fuel_type": "Petrol",
       "seats": 4,
       "torque": 528,
-      "listing_image_1": "00096.jpg"
+      "listing_image_1": "Placeholder_00001.jpg",
+      "listing_image_2": "Placeholder_00002.jpg",
+      "listing_image_3": "Placeholder_00003.jpg",
+      "listing_image_4": "Placeholder_00004.jpg",
+      "listing_image_5": "Placeholder_00005.jpg",
+      "listing_image_6": "Placeholder_00006.jpg"
     }
   },
   {
@@ -1936,7 +2416,12 @@
       "fuel_type": "Petrol",
       "seats": 5,
       "torque": 850,
-      "listing_image_1": "00097.jpg"
+      "listing_image_1": "Placeholder_00001.jpg",
+      "listing_image_2": "Placeholder_00002.jpg",
+      "listing_image_3": "Placeholder_00003.jpg",
+      "listing_image_4": "Placeholder_00004.jpg",
+      "listing_image_5": "Placeholder_00005.jpg",
+      "listing_image_6": "Placeholder_00006.jpg"
     }
   },
   {
@@ -1956,7 +2441,12 @@
       "fuel_type": "Electric",
       "seats": 5,
       "torque": 420,
-      "listing_image_1": "00098.jpg"
+      "listing_image_1": "Placeholder_00001.jpg",
+      "listing_image_2": "Placeholder_00002.jpg",
+      "listing_image_3": "Placeholder_00003.jpg",
+      "listing_image_4": "Placeholder_00004.jpg",
+      "listing_image_5": "Placeholder_00005.jpg",
+      "listing_image_6": "Placeholder_00006.jpg"
     }
   },
   {
@@ -1976,7 +2466,12 @@
       "fuel_type": "Electric",
       "seats": 5,
       "torque": 660,
-      "listing_image_1": "00099.jpg"
+      "listing_image_1": "Placeholder_00001.jpg",
+      "listing_image_2": "Placeholder_00002.jpg",
+      "listing_image_3": "Placeholder_00003.jpg",
+      "listing_image_4": "Placeholder_00004.jpg",
+      "listing_image_5": "Placeholder_00005.jpg",
+      "listing_image_6": "Placeholder_00006.jpg"
     }
   },
   {
@@ -1996,7 +2491,12 @@
       "fuel_type": "Electric",
       "seats": 7,
       "torque": 967,
-      "listing_image_1": "00100.jpg"
+      "listing_image_1": "Placeholder_00001.jpg",
+      "listing_image_2": "Placeholder_00002.jpg",
+      "listing_image_3": "Placeholder_00003.jpg",
+      "listing_image_4": "Placeholder_00004.jpg",
+      "listing_image_5": "Placeholder_00005.jpg",
+      "listing_image_6": "Placeholder_00006.jpg"
     }
   },
   {
@@ -2016,7 +2516,12 @@
       "fuel_type": "Electric",
       "seats": 6,
       "torque": 1400,
-      "listing_image_1": "00101.jpg"
+      "listing_image_1": "Placeholder_00001.jpg",
+      "listing_image_2": "Placeholder_00002.jpg",
+      "listing_image_3": "Placeholder_00003.jpg",
+      "listing_image_4": "Placeholder_00004.jpg",
+      "listing_image_5": "Placeholder_00005.jpg",
+      "listing_image_6": "Placeholder_00006.jpg"
     }
   },
   {
@@ -2036,7 +2541,12 @@
       "fuel_type": "Electric",
       "seats": 5,
       "torque": 498,
-      "listing_image_1": "00102.jpg"
+      "listing_image_1": "Placeholder_00001.jpg",
+      "listing_image_2": "Placeholder_00002.jpg",
+      "listing_image_3": "Placeholder_00003.jpg",
+      "listing_image_4": "Placeholder_00004.jpg",
+      "listing_image_5": "Placeholder_00005.jpg",
+      "listing_image_6": "Placeholder_00006.jpg"
     }
   },
   {
@@ -2056,7 +2566,12 @@
       "fuel_type": "Petrol",
       "seats": 2,
       "torque": 500,
-      "listing_image_1": "00103.jpg"
+      "listing_image_1": "Placeholder_00001.jpg",
+      "listing_image_2": "Placeholder_00002.jpg",
+      "listing_image_3": "Placeholder_00003.jpg",
+      "listing_image_4": "Placeholder_00004.jpg",
+      "listing_image_5": "Placeholder_00005.jpg",
+      "listing_image_6": "Placeholder_00006.jpg"
     }
   },
   {
@@ -2076,7 +2591,12 @@
       "fuel_type": "Petrol",
       "seats": 4,
       "torque": 205,
-      "listing_image_1": "00104.jpg"
+      "listing_image_1": "Placeholder_00001.jpg",
+      "listing_image_2": "Placeholder_00002.jpg",
+      "listing_image_3": "Placeholder_00003.jpg",
+      "listing_image_4": "Placeholder_00004.jpg",
+      "listing_image_5": "Placeholder_00005.jpg",
+      "listing_image_6": "Placeholder_00006.jpg"
     }
   },
   {
@@ -2096,7 +2616,12 @@
       "fuel_type": "Petrol",
       "seats": 4,
       "torque": 250,
-      "listing_image_1": "00105.jpg"
+      "listing_image_1": "Placeholder_00001.jpg",
+      "listing_image_2": "Placeholder_00002.jpg",
+      "listing_image_3": "Placeholder_00003.jpg",
+      "listing_image_4": "Placeholder_00004.jpg",
+      "listing_image_5": "Placeholder_00005.jpg",
+      "listing_image_6": "Placeholder_00006.jpg"
     }
   },
   {
@@ -2116,7 +2641,12 @@
       "fuel_type": "Diesel",
       "seats": 7,
       "torque": 500,
-      "listing_image_1": "00106.jpg"
+      "listing_image_1": "Placeholder_00001.jpg",
+      "listing_image_2": "Placeholder_00002.jpg",
+      "listing_image_3": "Placeholder_00003.jpg",
+      "listing_image_4": "Placeholder_00004.jpg",
+      "listing_image_5": "Placeholder_00005.jpg",
+      "listing_image_6": "Placeholder_00006.jpg"
     }
   },
   {
@@ -2136,7 +2666,12 @@
       "fuel_type": "Petrol",
       "seats": 5,
       "torque": 400,
-      "listing_image_1": "00107.jpg"
+      "listing_image_1": "Placeholder_00001.jpg",
+      "listing_image_2": "Placeholder_00002.jpg",
+      "listing_image_3": "Placeholder_00003.jpg",
+      "listing_image_4": "Placeholder_00004.jpg",
+      "listing_image_5": "Placeholder_00005.jpg",
+      "listing_image_6": "Placeholder_00006.jpg"
     }
   },
   {
@@ -2156,7 +2691,12 @@
       "fuel_type": "Petrol",
       "seats": 5,
       "torque": 650,
-      "listing_image_1": "00108.jpg"
+      "listing_image_1": "Placeholder_00001.jpg",
+      "listing_image_2": "Placeholder_00002.jpg",
+      "listing_image_3": "Placeholder_00003.jpg",
+      "listing_image_4": "Placeholder_00004.jpg",
+      "listing_image_5": "Placeholder_00005.jpg",
+      "listing_image_6": "Placeholder_00006.jpg"
     }
   },
   {
@@ -2176,7 +2716,12 @@
       "fuel_type": "Hybrid",
       "seats": 5,
       "torque": 650,
-      "listing_image_1": "00109.jpg"
+      "listing_image_1": "Placeholder_00001.jpg",
+      "listing_image_2": "Placeholder_00002.jpg",
+      "listing_image_3": "Placeholder_00003.jpg",
+      "listing_image_4": "Placeholder_00004.jpg",
+      "listing_image_5": "Placeholder_00005.jpg",
+      "listing_image_6": "Placeholder_00006.jpg"
     }
   },
   {
@@ -2196,7 +2741,12 @@
       "fuel_type": "Petrol",
       "seats": 5,
       "torque": 150,
-      "listing_image_1": "00110.jpg"
+      "listing_image_1": "Placeholder_00001.jpg",
+      "listing_image_2": "Placeholder_00002.jpg",
+      "listing_image_3": "Placeholder_00003.jpg",
+      "listing_image_4": "Placeholder_00004.jpg",
+      "listing_image_5": "Placeholder_00005.jpg",
+      "listing_image_6": "Placeholder_00006.jpg"
     }
   },
   {
@@ -2216,7 +2766,12 @@
       "fuel_type": "Petrol",
       "seats": 4,
       "torque": 93,
-      "listing_image_1": "00111.jpg"
+      "listing_image_1": "Placeholder_00001.jpg",
+      "listing_image_2": "Placeholder_00002.jpg",
+      "listing_image_3": "Placeholder_00003.jpg",
+      "listing_image_4": "Placeholder_00004.jpg",
+      "listing_image_5": "Placeholder_00005.jpg",
+      "listing_image_6": "Placeholder_00006.jpg"
     }
   },
   {
@@ -2236,7 +2791,12 @@
       "fuel_type": "Diesel",
       "seats": 5,
       "torque": 500,
-      "listing_image_1": "00112.jpg"
+      "listing_image_1": "Placeholder_00001.jpg",
+      "listing_image_2": "Placeholder_00002.jpg",
+      "listing_image_3": "Placeholder_00003.jpg",
+      "listing_image_4": "Placeholder_00004.jpg",
+      "listing_image_5": "Placeholder_00005.jpg",
+      "listing_image_6": "Placeholder_00006.jpg"
     }
   },
   {
@@ -2256,7 +2816,12 @@
       "fuel_type": "Petrol",
       "seats": 5,
       "torque": 400,
-      "listing_image_1": "00113.jpg"
+      "listing_image_1": "Placeholder_00001.jpg",
+      "listing_image_2": "Placeholder_00002.jpg",
+      "listing_image_3": "Placeholder_00003.jpg",
+      "listing_image_4": "Placeholder_00004.jpg",
+      "listing_image_5": "Placeholder_00005.jpg",
+      "listing_image_6": "Placeholder_00006.jpg"
     }
   },
   {
@@ -2276,7 +2841,12 @@
       "fuel_type": "Petrol",
       "seats": 5,
       "torque": 250,
-      "listing_image_1": "00114.jpg"
+      "listing_image_1": "Placeholder_00001.jpg",
+      "listing_image_2": "Placeholder_00002.jpg",
+      "listing_image_3": "Placeholder_00003.jpg",
+      "listing_image_4": "Placeholder_00004.jpg",
+      "listing_image_5": "Placeholder_00005.jpg",
+      "listing_image_6": "Placeholder_00006.jpg"
     }
   },
   {
@@ -2296,7 +2866,12 @@
       "fuel_type": "Petrol",
       "seats": 5,
       "torque": 250,
-      "listing_image_1": "00115.jpg"
+      "listing_image_1": "Placeholder_00001.jpg",
+      "listing_image_2": "Placeholder_00002.jpg",
+      "listing_image_3": "Placeholder_00003.jpg",
+      "listing_image_4": "Placeholder_00004.jpg",
+      "listing_image_5": "Placeholder_00005.jpg",
+      "listing_image_6": "Placeholder_00006.jpg"
     }
   },
   {
@@ -2316,7 +2891,12 @@
       "fuel_type": "Petrol",
       "seats": 7,
       "torque": 300,
-      "listing_image_1": "00116.jpg"
+      "listing_image_1": "Placeholder_00001.jpg",
+      "listing_image_2": "Placeholder_00002.jpg",
+      "listing_image_3": "Placeholder_00003.jpg",
+      "listing_image_4": "Placeholder_00004.jpg",
+      "listing_image_5": "Placeholder_00005.jpg",
+      "listing_image_6": "Placeholder_00006.jpg"
     }
   },
   {
@@ -2336,7 +2916,12 @@
       "fuel_type": "Petrol",
       "seats": 5,
       "torque": 250,
-      "listing_image_1": "00117.jpg"
+      "listing_image_1": "Placeholder_00001.jpg",
+      "listing_image_2": "Placeholder_00002.jpg",
+      "listing_image_3": "Placeholder_00003.jpg",
+      "listing_image_4": "Placeholder_00004.jpg",
+      "listing_image_5": "Placeholder_00005.jpg",
+      "listing_image_6": "Placeholder_00006.jpg"
     }
   },
   {
@@ -2356,7 +2941,12 @@
       "fuel_type": "Petrol",
       "seats": 5,
       "torque": 400,
-      "listing_image_1": "00118.jpg"
+      "listing_image_1": "Placeholder_00001.jpg",
+      "listing_image_2": "Placeholder_00002.jpg",
+      "listing_image_3": "Placeholder_00003.jpg",
+      "listing_image_4": "Placeholder_00004.jpg",
+      "listing_image_5": "Placeholder_00005.jpg",
+      "listing_image_6": "Placeholder_00006.jpg"
     }
   }
 ]

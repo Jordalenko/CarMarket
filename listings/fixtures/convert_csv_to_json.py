@@ -13,8 +13,8 @@ django.setup()
 
 from users.models import Profile
 
-csv_file = BASE_DIR / "listings" / "fixtures" / "Cars_Datasets_2026_v2_with_ids.csv"
-json_file = BASE_DIR / "listings" / "fixtures" / "Cars_Datasets_2026_v2.json"
+csv_file = BASE_DIR / "listings" / "fixtures" / "Cars_Datasets_2026_v3_with_ids.csv"
+json_file = BASE_DIR / "listings" / "fixtures" / "Cars_Datasets_2026_v3.json"
 profile_fixture = BASE_DIR / "listings" / "fixtures" / "profile.json"
 
 data = []
@@ -60,7 +60,12 @@ with open(csv_file, newline="", encoding="latin-1") as f:
                 "fuel_type": row["fuel_type"].strip() if row["fuel_type"] else "",
                 "seats": int(row["seats"]) if row["seats"] else None,
                 "torque": int(row["torque"]) if row["torque"] else None,
-                "listing_image_1": row["images"].strip() if row["images"] else "listings/default-listing-img.jpg"
+                "listing_image_1": row["image_1"].strip() if row["image_1"] else "listings/default-listing-img.jpg",
+                "listing_image_2": row["image_2"].strip() if row["image_2"] else "listings/default-listing-img.jpg",
+                "listing_image_3": row["image_3"].strip() if row["image_3"] else "listings/default-listing-img.jpg",
+                "listing_image_4": row["image_4"].strip() if row["image_4"] else "listings/default-listing-img.jpg",
+                "listing_image_5": row["image_5"].strip() if row["image_5"] else "listings/default-listing-img.jpg",
+                "listing_image_6": row["image_6"].strip() if row["image_6"] else "listings/default-listing-img.jpg"
             }
         }
         data.append(item)
@@ -68,4 +73,4 @@ with open(csv_file, newline="", encoding="latin-1") as f:
 with open(json_file, "w", encoding="latin-1") as f:
     json.dump(data, f, indent=2)
 
-print("Cars_Datasets_2026_v2.json fixture created successfully")
+print("Cars_Datasets_2026_v3.json fixture created successfully")

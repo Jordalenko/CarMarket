@@ -1,98 +1,84 @@
-<!-- {% extends 'base.html' %}
-{% load humanize %}
+{% extends "base.html" %}
+
 {% load static %}
-{% load url_helper %}
-{% block title %}
-Listings
-{% endblock title %}
+
+{% block extra_title %}- Listings{% endblock %}
+
+{% block extra_css %}
+  <link rel="stylesheet" href="{% static 'css/style.css' %}">
+{% endblock %}
+
+{% block page_header %}
+  <div class="container header-container">
+    <div class="row">
+      <div class="col"></div>
+    </div>
+  </div>
+{% endblock %}
 
 {% block content %}
-{% include 'partials/search-form.html' %}
+  <div class="listings-app">
+    <main class="page-shell">
+      <section class="search-shell">
+        {% include 'partials/search_form.html' %}
+      </section>
 
-<section class="results mt-5">
-    <div class="container text-center mt-5">
-        <h2>Results</h2>
-        <div class="row mt-5 justify-content-center">
-            {% for listing in listings %}
-            <!-- Card -->
-            <!-- <div class="col-10 col-md-6 col-xl-4 mb-4">
-                <div class="card listing-preview">
-                    <div class="card-body">
-                        <a class="card-link" href="{% url 'single-listing' listing.id %}">
-                            <h2 class="card-title text-truncate">{{ listing.listing_title }} </h2>
-                            <div class="row py-2 ">
-                                <div class="col-6">
-                                    <i class="fas fa-map-marker"></i> {{ listing.town|capfirst }} <br> {{ listing.county|capfirst }}
-                                </div>
-                                <div class="col-6">
-                                    <i class="fas fa-clock"></i> {{ listing.created|timesince }}
-                                </div>
-                            </div> -->
-                            <!-- Image -->
-                            <!-- <div class="row"> <img src="{{ listing.listing_main_img }}" class="card-image"
-                                    alt="{{ listing.listing_title }} image">
-                            </div>
-                            <div class="row py-2 ">
-                                <div class="col-6">
-                                    <i class="fa-regular fa-calendar-days"></i> Year: {{ listing.year }}
-                                </div>
-                                <div class="col-6">
-                                    <i class="fa-solid fa-gauge-high"></i> Miles: {{ listing.mileage|intcomma }}
-                                </div>
-                            </div>
-                            <h3>Price: €{{ listing.price|intcomma }}</h3>
-                        </a>
-                            <a href="{% url 'single-listing' listing.id %}" class="btn btn-blue text-white">More
-                                Info</a>
-                    </div>
-                </div>
+      <section class="results-section">
+        <div class="section-title-wrap">
+          <h2>Results</h2>
+        </div>
+
+        <div class="cards-grid">
+          {% for listing in listings %}
+            <article class="listing-card">
+              <div class="listing-image-box">
+                <a href="{% url 'home' %}" aria-label="Go to home page">
+                  <img src="/assets/listings_images/Placeholder_00001.png" alt="Car placeholder image">
+                </a>
+              </div>
+
+              <div class="listing-card-body">
+                <h3>{{ listing.car_make }} {{ listing.car_model }}</h3>
+                <p><strong>Fuel Type:</strong> {{ listing.fuel_type|default:'-' }}</p>
+                <p><strong>Year:</strong> {{ listing.year|default:'-' }}</p>
+                <p><strong>Mileage:</strong> {{ listing.mileage|default:'-' }}</p>
+                <p><strong>Price:</strong> €{{ listing.price|default:'-' }}</p>
+                <a href="{% url 'account_login' %}" class="shop-now-button btn btn-lg rounded-0 text-uppercase py-3 listing-contact-btn">Contact</a>
+              </div>
+            </article>
+          {% empty %}
+            <div class="empty-state">
+              <p>No cars matched the values entered in the form.</p>
             </div>
-            {% endfor %}
+          {% endfor %}
         </div>
-    </div> -->
 
-    <!-- Pagination -->
-    <!-- <div class="row">
-        <div class="col-md-12">
-            {% if listings.has_other_pages %}
-            <ul class="pagination justify-content-center">
-                {% if listings.has_previous %}
-                <li class="page-item">
-                    <a class="page-link" href="?{% query_transform page=listings.previous_page_number %}">&laquo;</a>
-                </li>
-                {% else %}
-                <li class="page-item disabled">
-                    <a class="page-link">&laquo;</a>
-                </li>
-                {% endif %}
+        {% if listings.paginator.num_pages > 1 %}
+          <nav class="pagination-wrap" aria-label="Listings pagination">
+            <div class="pagination-list">
+              {% if listings.has_previous %}
+                <div><a href="?page={{ listings.previous_page_number }}&car_make={{ values.car_make|urlencode }}&car_model={{ values.car_model|urlencode }}&fuel_type={{ values.fuel_type|urlencode }}&year={{ values.year|urlencode }}&mileage={{ values.mileage|urlencode }}&price={{ values.price|urlencode }}">&laquo;</a></div>
+              {% else %}
+                <div class="disabled"><span>&laquo;</span></div>
+              {% endif %}
 
-                {% for i in listings.paginator.page_range %}
-                    {% if i <= listings.number|add:2 and i >= listings.number|add:-2 %}
-                        {% if listings.number == i %}
-                        <li class="page-item active" aria-current="page">
-                            <a class="page-link" href="?{% query_transform page=i %}">{{i}}</a>
-                        </li>
-                        {% else %}
-                        <li class="page-item"><a class="page-link" href="?{% query_transform page=i %}">{{i}}</a></li>
-                        {% endif %}
-                    {% endif %}
-                {% endfor %}
-                
-                {% if listings.has_next %}
-                <li class="page-item">
-                    <a class="page-link" href="?{% query_transform page=listings.next_page_number %}">&raquo;</a>
-                </li>
+              {% for i in listings.paginator.page_range %}
+                {% if i == listings.number %}
+                  <div class="active"><span>{{ i }}</span></div>
                 {% else %}
-                <li class="page-item disabled">
-                    <a class="page-link">&raquo;</a>
-                </li>
+                  <div><a href="?page={{ i }}&car_make={{ values.car_make|urlencode }}&car_model={{ values.car_model|urlencode }}&fuel_type={{ values.fuel_type|urlencode }}&year={{ values.year|urlencode }}&mileage={{ values.mileage|urlencode }}&price={{ values.price|urlencode }}">{{ i }}</a></div>
                 {% endif %}
-            </ul>
-            {% endif %}
-        </div>
-    </div>
-</section>
+              {% endfor %}
+
+              {% if listings.has_next %}
+                <div><a href="?page={{ listings.next_page_number }}&car_make={{ values.car_make|urlencode }}&car_model={{ values.car_model|urlencode }}&fuel_type={{ values.fuel_type|urlencode }}&year={{ values.year|urlencode }}&mileage={{ values.mileage|urlencode }}&price={{ values.price|urlencode }}">&raquo;</a></div>
+              {% else %}
+                <div class="disabled"><span>&raquo;</span></div>
+              {% endif %}
+            </div>
+          </nav>
+        {% endif %}
+      </section>
+    </main>
+  </div>
 {% endblock %}
-{% block script %}
-<script src="{% static 'js/search.js' %}"></script>
-{% endblock script %} --> -->

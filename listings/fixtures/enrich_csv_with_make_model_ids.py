@@ -12,8 +12,8 @@ django.setup()
 
 from listings.models import CarMake, CarModel  # noqa: E402
 
-input_csv = BASE_DIR / "listings" / "fixtures" / "Cars_Datasets_2026_v2.csv"
-output_csv = BASE_DIR / "listings" / "fixtures" / "Cars_Datasets_2026_v2_with_ids.csv"
+input_csv = BASE_DIR / "listings" / "fixtures" / "Cars_Datasets_2026_v3.csv"
+output_csv = BASE_DIR / "listings" / "fixtures" / "Cars_Datasets_2026_v3_with_ids.csv"
 
 rows = []
 
@@ -49,4 +49,4 @@ with open(output_csv, "w", newline="", encoding="latin-1") as f:
     writer.writeheader()
     writer.writerows(rows)
 
-print("Cars_Datasets_2026_v2_with_ids.csv created successfully")
+print("Cars_Datasets_2026_v3_with_ids.csv created successfully")

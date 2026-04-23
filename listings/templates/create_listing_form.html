@@ -1,0 +1,108 @@
+{% extends "base.html" %}
+
+{% load static %}
+
+{% block extra_title %}- Create Listing{% endblock %}
+
+{% block extra_css %}
+  <link rel="stylesheet" href="{% static 'css/style.css' %}">
+{% endblock %}
+
+{% block page_header %}
+  <div class="container header-container">
+    <div class="row">
+      <div class="col"></div>
+    </div>
+  </div>
+{% endblock %}
+
+{% block content %}
+  <div class="listings-app form-page-body">
+    <div class="form-card">
+      <div class="form-card-head">
+        <h1>Create Listing</h1>
+        <a class="back-link" href="{% url 'listings_page' %}">View Listings</a>
+      </div>
+
+      <p class="intro-copy">Enter a car make, car type, fuel type, year, mileage, and price. After you create a listing, it can appear on the listings page and be filtered by the blue search form.</p>
+
+      {% if result %}
+        <div class="message-box {% if is_success %}message-success{% else %}message-error{% endif %}">
+          {% if is_success %}
+            <strong>Success:</strong> Listing created successfully.
+          {% else %}
+            <strong>Failure:</strong> {{ result.error|default:"Could not create listing." }}
+          {% endif %}
+        </div>
+      {% endif %}
+
+      <form method="post" class="create-listing-grid">
+        {% csrf_token %}
+
+        <div class="field-block">
+          <label for="car_make">Car Make *</label>
+          <input id="car_make" name="car_make" value="{{ form_data.car_make|default:'' }}" required>
+        </div>
+
+        <div class="field-block">
+          <label for="car_model">Car Type *</label>
+          <input id="car_model" name="car_model" value="{{ form_data.car_model|default:'' }}" required>
+        </div>
+
+        <div class="field-block">
+          <label for="fuel_type">Fuel Type</label>
+          <input id="fuel_type" name="fuel_type" value="{{ form_data.fuel_type|default:'' }}">
+        </div>
+
+        <div class="field-block">
+          <label for="year">Year</label>
+          <input id="year" name="year" type="number" value="{{ form_data.year|default:'' }}">
+        </div>
+
+        <div class="field-block">
+          <label for="mileage">Mileage</label>
+          <input id="mileage" name="mileage" type="number" value="{{ form_data.mileage|default:'' }}">
+        </div>
+
+        <div class="field-block">
+          <label for="price">Price</label>
+          <input id="price" name="price" type="number" value="{{ form_data.price|default:'' }}">
+        </div>
+
+        <div class="field-block">
+          <label for="owner_username">Owner Username</label>
+          <input id="owner_username" name="owner_username" value="{{ form_data.owner_username|default:'' }}">
+        </div>
+
+        <div class="field-block">
+          <label for="engine_size">Engine Size</label>
+          <input id="engine_size" name="engine_size" value="{{ form_data.engine_size|default:'' }}">
+        </div>
+
+        <div class="field-block">
+          <label for="transmission">Transmission</label>
+          <input id="transmission" name="transmission" value="{{ form_data.transmission|default:'' }}">
+        </div>
+
+        <div class="field-block">
+          <label for="seats">Seats</label>
+          <input id="seats" name="seats" type="number" value="{{ form_data.seats|default:'' }}">
+        </div>
+
+        <div class="field-block">
+          <label for="torque">Torque</label>
+          <input id="torque" name="torque" type="number" value="{{ form_data.torque|default:'' }}">
+        </div>
+
+        <div class="field-block full-span">
+          <label for="description">Description</label>
+          <textarea id="description" name="description">{{ form_data.description|default:'' }}</textarea>
+        </div>
+
+        <div class="field-block full-span form-actions">
+          <button type="submit">Create Listing</button>
+        </div>
+      </form>
+    </div>
+  </div>
+{% endblock %}
