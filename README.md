@@ -191,11 +191,11 @@ The font used in this project is the default font. <br>
 - Listings
 ![listings](./assets/readme-images/wireframes/Listings.png)
 - Single listing
-![single-listing](./assets/readme-images/wireframes/single-listing.png)
+![single-listing](./assets/readme-images/wireframes/Listing.png)
 - Log in
-![login](./assets/readme-images/wireframes/login.png)
+![login](./assets/readme-images/wireframes/Login.png)
 - Profile
-![profile](./assets/readme-images/wireframes/profile.png)
+![profile](./assets/readme-images/wireframes/Profile.png)
 
 ### Agile Methodology
 #### Overview
