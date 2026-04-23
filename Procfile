@@ -1,1 +1,1 @@
-web: gunicorn automarket.wsgi
+web: gunicorn CarMarket.wsgi:application
