@@ -3,7 +3,7 @@
 <hr>
 CarMarket is a full stack e-commerce project allowing users to post listings with their vehicle for sale. The project was built using the Django framework for the backend and HTML, CSS, Bootstrap and JavaScript on the frontend. CarMarket allows the users to create an account and perform CRUD functionality on their profile and listings. This project was created as part of Code Institute's Level 5 Web Development course.
 
-![CarMarket Image](./assets/readme-images/CarMarket_main_image.png)
+![CarMarket Image](https://res.cloudinary.com/dutukkel2/image/upload/v1776968971/CarMarket_main_image_bbzdwl.png)
 
 # Table Of Content
 
@@ -154,7 +154,7 @@ Overall, this color scheme creates a professional and user-friendly environment,
 ![Colour Scheme](./assets/readme-images/)
 
 ### Database Schema
-![database schema](./assets/readme-images/CarMarket_db_schema_v4.png)
+![database schema](https://res.cloudinary.com/dutukkel2/image/upload/v1776969191/CarMarket_db_schema_v4_tfqdir.png)
 
 #### Models
 1. Allauth User Model
@@ -187,15 +187,15 @@ The font used in this project is the default font. <br>
 
 ### Wireframes
 - Home
-![Home](./assets/readme-images/wireframes/Home.png)
+![Home](https://res.cloudinary.com/dutukkel2/image/upload/v1776968971/Home_l29s84.png)
 - Listings
-![listings](./assets/readme-images/wireframes/Listings.png)
+![listings](https://res.cloudinary.com/dutukkel2/image/upload/v1776968971/Listings_cghrcn.png)
 - Single listing
-![single-listing](./assets/readme-images/wireframes/Listing.png)
+![single-listing](https://res.cloudinary.com/dutukkel2/image/upload/v1776968971/Listing_vmnlpn.png)
 - Log in
-![login](./assets/readme-images/wireframes/Login.png)
+![login](https://res.cloudinary.com/dutukkel2/image/upload/v1776968971/Login_kyqeqy.png)
 - Profile
-![profile](./assets/readme-images/wireframes/Profile.png)
+![profile](https://res.cloudinary.com/dutukkel2/image/upload/v1776968971/Profile_ojzcrf.png)
 
 ### Agile Methodology
 #### Overview

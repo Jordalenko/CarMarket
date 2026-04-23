@@ -6,15 +6,23 @@ from .models import Profile
 
 @receiver(post_save, sender=User)
 def create_profile(sender, instance, created, **kwargs):
+    if kwargs.get("raw", False):
+        return
+
     if created:
-        Profile.objects.create(
+        Profile.objects.get_or_create(
             user=instance,
-            username=instance.username,
-            email=instance.email
+            defaults={
+                "username": instance.username,
+                "email": instance.email,
+            },
         )
 
 
 @receiver(post_save, sender=User)
 def save_profile(sender, instance, **kwargs):
-    if hasattr(instance, 'profile'):
+    if kwargs.get("raw", False):
+        return
+
+    if hasattr(instance, "profile"):
         instance.profile.save()

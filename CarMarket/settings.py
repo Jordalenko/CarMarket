@@ -26,12 +26,12 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 
 # SECURITY WARNING: keep the secret key used in production secret!
 
-SECRET_KEY = (
-    "django-insecure-xv$t2u+yq5tuoz0ou8wdc$0d%u0xua+x44f&hj$^y5j&"
-    "vz(elq"
-)
+# SECRET_KEY = (
+#     "django-insecure-xv$t2u+yq5tuoz0ou8wdc$0d%u0xua+x44f&hj$^y5j&"
+#     "vz(elq"
+# )
 
-# SECRET_KEY = os.environ.get("SECRET_KEY")
+SECRET_KEY = os.environ.get("SECRET_KEY")
 
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
@@ -57,13 +57,13 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
     'django.contrib.humanize',
 
-    # 'cloudinary_storage',
+    'cloudinary_storage',
 
     'django.contrib.sites',
     'allauth',
     'allauth.account',
     'allauth.socialaccount',
-    # 'cloudinary',
+    'cloudinary',
     'home',
     'listings',
     'users',
@@ -129,15 +129,12 @@ WSGI_APPLICATION = 'CarMarket.wsgi.application'
 # https://docs.djangoproject.com/en/4.2/ref/settings/#databases
 
 DATABASES = {
-    'default': {
-        'ENGINE': 'django.db.backends.sqlite3',
-        'NAME': BASE_DIR / 'db.sqlite3',
-    }
+    'default': dj_database_url.config(
+        default=f"sqlite:///{BASE_DIR / 'db.sqlite3'}",
+        conn_max_age=600,
+        ssl_require=not DEBUG,
+    )
 }
-
-# DATABASES = {
-#     'default': dj_database_url.parse(os.environ.get("DATABASE_URL"))
-# }
 
 
 # Password validation
@@ -198,3 +195,8 @@ MEDIA_ROOT = os.path.join(BASE_DIR, 'assets')
 # https://docs.djangoproject.com/en/3.2/ref/settings/#default-auto-field
 
 DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
+
+CLOUDINARY_LISTING_PLACEHOLDER_URL = os.environ.get(
+    'CLOUDINARY_LISTING_PLACEHOLDER_URL',
+    'https://res.cloudinary.com/dutukkel2/image/upload/v1776964548/Placeholder_00004_mfxr3e.png',
+)
